@@ -1,0 +1,1400 @@
+{'nome': 'Jack Stall Beck', 'classe': 'ED', 'level': 831, 'exp': 9504415805}
+{'nome': 'American York', 'classe': 'RP', 'level': 830, 'exp': 9466438901}
+{'nome': 'Miingau', 'classe': 'ED', 'level': 817, 'exp': 9047341096}
+{'nome': 'Fogo No Parquinho', 'classe': 'RP', 'level': 764, 'exp': 7375339388}
+{'nome': 'Flairstaar', 'classe': 'MS', 'level': 764, 'exp': 7374624258}
+{'nome': 'Nobzinha', 'classe': 'ED', 'level': 755, 'exp': 7139963748}
+{'nome': 'Livius', 'classe': 'RP', 'level': 746, 'exp': 6882654950}
+{'nome': 'Matuto', 'classe': 'ED', 'level': 744, 'exp': 6831003381}
+{'nome': 'Guthan', 'classe': 'ED', 'level': 738, 'exp': 6661216703}
+{'nome': 'Smooking', 'classe': 'RP', 'level': 737, 'exp': 6618417555}
+{'nome': 'Megadivo', 'classe': 'ED', 'level': 727, 'exp': 6362130623}
+{'nome': 'Vyssen', 'classe': 'RP', 'level': 722, 'exp': 6227340732}
+{'nome': 'Bandoleiro', 'classe': 'RP', 'level': 721, 'exp': 6202167213}
+{'nome': 'Staz Charlie', 'classe': 'MS', 'level': 719, 'exp': 6167651806}
+{'nome': 'Darin Rookes', 'classe': 'ED', 'level': 710, 'exp': 5922323244}
+{'nome': 'Britney Spears', 'classe': 'RP', 'level': 705, 'exp': 5803685412}
+{'nome': 'Crazy Plane', 'classe': 'ED', 'level': 705, 'exp': 5800317521}
+{'nome': 'Uzumaki Boruto', 'classe': 'RP', 'level': 704, 'exp': 5769081487}
+{'nome': 'Shofia', 'classe': 'RP', 'level': 701, 'exp': 5712813717}
+{'nome': 'Prox Zika', 'classe': 'RP', 'level': 700, 'exp': 5669149342}
+{'nome': 'Destinity', 'classe': 'ED', 'level': 695, 'exp': 5559678223}
+{'nome': 'Goku Ultra', 'classe': 'RP', 'level': 694, 'exp': 5539648317}
+{'nome': 'Calzinha Bolt', 'classe': 'RP', 'level': 694, 'exp': 5530736076}
+{'nome': 'King Castle', 'classe': 'RP', 'level': 693, 'exp': 5521716706}
+{'nome': 'Warcau Onke', 'classe': 'RP', 'level': 692, 'exp': 5495832931}
+{'nome': 'Kharseke', 'classe': 'RP', 'level': 681, 'exp': 5224386376}
+{'nome': 'Ceruttera Knight', 'classe': 'EK', 'level': 680, 'exp': 5198035054}
+{'nome': 'Miilka', 'classe': 'RP', 'level': 678, 'exp': 5168040046}
+{'nome': 'Hurek', 'classe': 'RP', 'level': 678, 'exp': 5165396698}
+{'nome': 'Vyper', 'classe': 'ED', 'level': 677, 'exp': 5137968186}
+{'nome': 'Suzor', 'classe': 'RP', 'level': 676, 'exp': 5113725806}
+{'nome': 'Meikzada', 'classe': 'ED', 'level': 676, 'exp': 5110918693}
+{'nome': 'Plutiss', 'classe': 'RP', 'level': 676, 'exp': 5103497617}
+{'nome': 'Lucry', 'classe': 'ED', 'level': 674, 'exp': 5063664442}
+{'nome': 'Sleep Neon', 'classe': 'RP', 'level': 674, 'exp': 5058589031}
+{'nome': 'Michael Vick', 'classe': 'ED', 'level': 673, 'exp': 5035922269}
+{'nome': 'Mayara', 'classe': 'RP', 'level': 673, 'exp': 5035256735}
+{'nome': 'Mariia Da Paz', 'classe': 'RP', 'level': 672, 'exp': 5033005786}
+{'nome': 'Marolar', 'classe': 'RP', 'level': 672, 'exp': 5021901048}
+{'nome': 'Reativado', 'classe': 'RP', 'level': 672, 'exp': 5018176487}
+{'nome': 'Reggae Nation', 'classe': 'RP', 'level': 671, 'exp': 4990368972}
+{'nome': 'Flairsteep', 'classe': 'RP', 'level': 670, 'exp': 4980910662}
+{'nome': 'Litox', 'classe': 'ED', 'level': 670, 'exp': 4978006624}
+{'nome': 'Eloi Palazin', 'classe': 'RP', 'level': 669, 'exp': 4949047968}
+{'nome': 'Tulicol', 'classe': 'ED', 'level': 668, 'exp': 4945555644}
+{'nome': 'Vlop', 'classe': 'ED', 'level': 668, 'exp': 4941478849}
+{'nome': 'Undead Buttowski', 'classe': 'RP', 'level': 668, 'exp': 4927571096}
+{'nome': 'Gabee zhor', 'classe': 'ED', 'level': 667, 'exp': 4917262601}
+{'nome': 'Sir Loco', 'classe': 'ED', 'level': 666, 'exp': 4889851757}
+{'nome': 'Finkz Na Noiten', 'classe': 'ED', 'level': 665, 'exp': 4868857100}
+{'nome': 'Puro Sangue', 'classe': 'RP', 'level': 664, 'exp': 4837755697}
+{'nome': 'Silvia', 'classe': 'ED', 'level': 663, 'exp': 4830829774}
+{'nome': 'Kakkarotto', 'classe': 'RP', 'level': 663, 'exp': 4825438641}
+{'nome': 'Gordofobia', 'classe': 'RP', 'level': 662, 'exp': 4793537140}
+{'nome': 'Shaft', 'classe': 'RP', 'level': 661, 'exp': 4787514631}
+{'nome': 'Czar Butowski', 'classe': 'RP', 'level': 660, 'exp': 4761278142}
+{'nome': 'Princesa Zelda', 'classe': 'RP', 'level': 657, 'exp': 4703151773}
+{'nome': 'Niz Ty Gowno', 'classe': 'ED', 'level': 655, 'exp': 4659890188}
+{'nome': 'Pombo Stanlley', 'classe': 'RP', 'level': 654, 'exp': 4632641723}
+{'nome': 'Infant Annihilator', 'classe': 'RP', 'level': 654, 'exp': 4631554169}
+{'nome': 'Mochilox', 'classe': 'ED', 'level': 653, 'exp': 4617806857}
+{'nome': 'Jacarezinhow', 'classe': 'RP', 'level': 653, 'exp': 4606592369}
+{'nome': 'Sr Maconheiro', 'classe': 'ED', 'level': 653, 'exp': 4600347826}
+{'nome': 'Madara Uchiha', 'classe': 'RP', 'level': 652, 'exp': 4596627650}
+{'nome': 'Yamavoodoom', 'classe': 'RP', 'level': 651, 'exp': 4574700212}
+{'nome': 'Paly Mal', 'classe': 'RP', 'level': 651, 'exp': 4568371568}
+{'nome': 'Homesick', 'classe': 'ED', 'level': 651, 'exp': 4556080362}
+{'nome': 'Prazerr', 'classe': 'EK', 'level': 649, 'exp': 4528238445}
+{'nome': 'Myzaky', 'classe': 'ED', 'level': 649, 'exp': 4527844437}
+{'nome': 'Oyama', 'classe': 'RP', 'level': 647, 'exp': 4479086062}
+{'nome': 'Elite Bruxa', 'classe': 'EK', 'level': 646, 'exp': 4465677170}
+{'nome': 'Pally Dim', 'classe': 'RP', 'level': 646, 'exp': 4462545119}
+{'nome': 'Reve', 'classe': 'RP', 'level': 646, 'exp': 4451614619}
+{'nome': 'Bigg', 'classe': 'EK', 'level': 643, 'exp': 4408904124}
+{'nome': 'Lynex', 'classe': 'RP', 'level': 642, 'exp': 4370896865}
+{'nome': 'Jimmy Neutron', 'classe': 'MS', 'level': 642, 'exp': 4369567437}
+{'nome': 'Stylle Arsher Onwz', 'classe': 'RP', 'level': 641, 'exp': 4365341995}
+{'nome': 'Libano', 'classe': 'RP', 'level': 641, 'exp': 4356566387}
+{'nome': 'Kavox', 'classe': 'ED', 'level': 641, 'exp': 4352572568}
+{'nome': 'Betomd', 'classe': 'EK', 'level': 641, 'exp': 4351169378}
+{'nome': 'Sattanzinha', 'classe': 'RP', 'level': 639, 'exp': 4308083842}
+{'nome': 'Start Rullex', 'classe': 'MS', 'level': 637, 'exp': 4282187411}
+{'nome': 'Processing Pixels', 'classe': 'EK', 'level': 636, 'exp': 4261086594}
+{'nome': 'Muckyzyk', 'classe': 'ED', 'level': 636, 'exp': 4260964054}
+{'nome': 'Chakal', 'classe': 'ED', 'level': 636, 'exp': 4249847890}
+{'nome': 'Renan Kina', 'classe': 'EK', 'level': 635, 'exp': 4242943160}
+{'nome': 'Spawnc', 'classe': 'RP', 'level': 634, 'exp': 4226923217}
+{'nome': 'Picco Venga', 'classe': 'RP', 'level': 634, 'exp': 4226514497}
+{'nome': 'Kha zix', 'classe': 'EK', 'level': 634, 'exp': 4224257095}
+{'nome': 'Spawnx', 'classe': 'EK', 'level': 634, 'exp': 4223427584}
+{'nome': 'Ryan', 'classe': 'RP', 'level': 633, 'exp': 4207307549}
+{'nome': 'Henrique Sa', 'classe': 'EK', 'level': 633, 'exp': 4205309565}
+{'nome': 'Rofux Ballack', 'classe': 'RP', 'level': 633, 'exp': 4191933288}
+{'nome': 'Not Remember', 'classe': 'RP', 'level': 633, 'exp': 4190324019}
+{'nome': 'Meucu Pooh', 'classe': 'MS', 'level': 631, 'exp': 4163481367}
+{'nome': 'Paladin Ingeniero', 'classe': 'RP', 'level': 631, 'exp': 4158622746}
+{'nome': 'Cabritera', 'classe': 'MS', 'level': 631, 'exp': 4158070078}
+{'nome': 'Play hardy', 'classe': 'RP', 'level': 631, 'exp': 4157157113}
+{'nome': 'Suavecito', 'classe': 'ED', 'level': 631, 'exp': 4156092465}
+{'nome': 'Maverik Out', 'classe': 'RP', 'level': 631, 'exp': 4149124340}
+{'nome': 'Osama Bim Laden', 'classe': 'ED', 'level': 630, 'exp': 4145815767}
+{'nome': 'Theuziin', 'classe': 'RP', 'level': 630, 'exp': 4136143784}
+{'nome': 'Lothbrook', 'classe': 'EK', 'level': 630, 'exp': 4130890930}
+{'nome': 'Flamepally', 'classe': 'RP', 'level': 629, 'exp': 4123459238}
+{'nome': 'Theu Zin', 'classe': 'EK', 'level': 629, 'exp': 4110851804}
+{'nome': 'Miau Miau', 'classe': 'ED', 'level': 629, 'exp': 4109157741}
+{'nome': 'Monotox', 'classe': 'RP', 'level': 629, 'exp': 4108686790}
+{'nome': 'Diiguiinn', 'classe': 'RP', 'level': 628, 'exp': 4107284611}
+{'nome': 'Xbelly Dancer', 'classe': 'RP', 'level': 628, 'exp': 4090758547}
+{'nome': 'Prin Of Pelego', 'classe': 'RP', 'level': 627, 'exp': 4088555412}
+{'nome': 'Szybkosc', 'classe': 'RP', 'level': 627, 'exp': 4085491965}
+{'nome': 'Mikey Mouse', 'classe': 'RP', 'level': 627, 'exp': 4082027510}
+{'nome': 'Kanabis', 'classe': 'MS', 'level': 627, 'exp': 4081771192}
+{'nome': 'Lipezn Defender', 'classe': 'EK', 'level': 627, 'exp': 4079215764}
+{'nome': 'Master Cokess', 'classe': 'EK', 'level': 627, 'exp': 4074411800}
+{'nome': 'Malvo', 'classe': 'ED', 'level': 627, 'exp': 4071398765}
+{'nome': 'Tripa Playboy', 'classe': 'RP', 'level': 627, 'exp': 4070655565}
+{'nome': 'Embregads Lavamon', 'classe': 'RP', 'level': 626, 'exp': 4066757434}
+{'nome': 'Fluffen', 'classe': 'RP', 'level': 626, 'exp': 4064272464}
+{'nome': 'Rosa Noo', 'classe': 'RP', 'level': 626, 'exp': 4061819887}
+{'nome': 'Zero Treze', 'classe': 'ED', 'level': 626, 'exp': 4061779953}
+{'nome': 'Malvadinho Pop', 'classe': 'MS', 'level': 626, 'exp': 4061071825}
+{'nome': 'Maluco Do Opala', 'classe': 'ED', 'level': 626, 'exp': 4052878515}
+{'nome': 'Lord Celesthyal', 'classe': 'ED', 'level': 625, 'exp': 4046182357}
+{'nome': 'Mysni', 'classe': 'ED', 'level': 625, 'exp': 4033560426}
+{'nome': 'Ghost Rider', 'classe': 'RP', 'level': 624, 'exp': 4020658682}
+{'nome': 'Nighty', 'classe': 'ED', 'level': 622, 'exp': 3990049089}
+{'nome': 'Pally Fast Hands', 'classe': 'RP', 'level': 622, 'exp': 3982536345}
+{'nome': 'Johnie Brutin', 'classe': 'EK', 'level': 622, 'exp': 3982437389}
+{'nome': 'Zeca Bolada', 'classe': 'ED', 'level': 622, 'exp': 3980432043}
+{'nome': 'Ron Carter', 'classe': 'ED', 'level': 622, 'exp': 3978532186}
+{'nome': 'Kyng Costle', 'classe': 'RP', 'level': 622, 'exp': 3977810166}
+{'nome': 'King Azstekka', 'classe': 'ED', 'level': 622, 'exp': 3977213133}
+{'nome': 'Stripida', 'classe': 'ED', 'level': 622, 'exp': 3975978947}
+{'nome': 'Renan Brauna Sp', 'classe': 'EK', 'level': 622, 'exp': 3973408015}
+{'nome': 'Naman Loth', 'classe': 'EK', 'level': 622, 'exp': 3972663322}
+{'nome': 'Meu Pau Te Ama', 'classe': 'ED', 'level': 622, 'exp': 3972189188}
+{'nome': 'Worms', 'classe': 'EK', 'level': 621, 'exp': 3965153279}
+{'nome': 'Fox Furry', 'classe': 'RP', 'level': 621, 'exp': 3962859047}
+{'nome': 'Allan Baby Shark', 'classe': 'EK', 'level': 621, 'exp': 3960433049}
+{'nome': 'Dulokz', 'classe': 'EK', 'level': 621, 'exp': 3959303471}
+{'nome': 'Sirux', 'classe': 'EK', 'level': 621, 'exp': 3956680476}
+{'nome': 'Ragnaldo Notebook', 'classe': 'EK', 'level': 621, 'exp': 3956346544}
+{'nome': 'Sindicato', 'classe': 'RP', 'level': 621, 'exp': 3956319933}
+{'nome': 'Kokain Agaeszi', 'classe': 'ED', 'level': 621, 'exp': 3954260061}
+{'nome': 'Elderzinho', 'classe': 'ED', 'level': 621, 'exp': 3953142455}
+{'nome': 'Paz Irmao', 'classe': 'RP', 'level': 620, 'exp': 3951267648}
+{'nome': 'Duaith', 'classe': 'EK', 'level': 620, 'exp': 3950421035}
+{'nome': 'Fiorella', 'classe': 'ED', 'level': 620, 'exp': 3949596119}
+{'nome': 'Oitao Janelado', 'classe': 'ED', 'level': 620, 'exp': 3941283826}
+{'nome': 'Thierre Ramos', 'classe': 'MS', 'level': 620, 'exp': 3939559779}
+{'nome': 'Jd Pery', 'classe': 'ED', 'level': 620, 'exp': 3935315825}
+{'nome': 'Justiceira', 'classe': 'RP', 'level': 619, 'exp': 3932654306}
+{'nome': 'Zephir', 'classe': 'ED', 'level': 619, 'exp': 3916890500}
+{'nome': 'Sczar', 'classe': 'RP', 'level': 619, 'exp': 3915392933}
+{'nome': 'Woody Woodpecker', 'classe': 'RP', 'level': 618, 'exp': 3914442216}
+{'nome': 'Redtube Ta On', 'classe': 'RP', 'level': 618, 'exp': 3912086227}
+{'nome': 'Sann', 'classe': 'ED', 'level': 618, 'exp': 3909911534}
+{'nome': 'Crazy Judge', 'classe': 'RP', 'level': 618, 'exp': 3901527232}
+{'nome': 'Danzin', 'classe': 'ED', 'level': 618, 'exp': 3900704782}
+{'nome': 'Amoebinha', 'classe': 'ED', 'level': 618, 'exp': 3898492659}
+{'nome': 'Linfocito T', 'classe': 'RP', 'level': 617, 'exp': 3895540541}
+{'nome': 'Kina Da Contencao', 'classe': 'EK', 'level': 617, 'exp': 3893429971}
+{'nome': 'Spawnn', 'classe': 'MS', 'level': 617, 'exp': 3892451970}
+{'nome': 'Tche Pally', 'classe': 'RP', 'level': 617, 'exp': 3891475048}
+{'nome': 'Vou Pegar Red', 'classe': 'ED', 'level': 617, 'exp': 3890857760}
+{'nome': 'Sickboy', 'classe': 'ED', 'level': 617, 'exp': 3890526814}
+{'nome': 'Kobe', 'classe': 'RP', 'level': 617, 'exp': 3888929786}
+{'nome': 'Izmoks', 'classe': 'ED', 'level': 617, 'exp': 3887866877}
+{'nome': 'Lord Assasin', 'classe': 'ED', 'level': 617, 'exp': 3877547087}
+{'nome': 'Dbonex', 'classe': 'RP', 'level': 617, 'exp': 3876914482}
+{'nome': 'Xxpaladinoxx', 'classe': 'RP', 'level': 616, 'exp': 3876328786}
+{'nome': 'Mininin', 'classe': 'EK', 'level': 616, 'exp': 3875543513}
+{'nome': 'Lowkz Back', 'classe': 'ED', 'level': 616, 'exp': 3874681280}
+{'nome': 'Royal Peladim', 'classe': 'RP', 'level': 616, 'exp': 3874182700}
+{'nome': 'Elite Kingnightt', 'classe': 'EK', 'level': 616, 'exp': 3872692149}
+{'nome': 'Open Tchetcheca', 'classe': 'MS', 'level': 616, 'exp': 3871958487}
+{'nome': 'Bijorge Notebook', 'classe': 'RP', 'level': 616, 'exp': 3867641728}
+{'nome': 'Kita', 'classe': 'MS', 'level': 616, 'exp': 3867590335}
+{'nome': 'Digits', 'classe': 'RP', 'level': 616, 'exp': 3867512849}
+{'nome': 'Lipezn Here', 'classe': 'ED', 'level': 616, 'exp': 3865323941}
+{'nome': 'Avila', 'classe': 'ED', 'level': 616, 'exp': 3863770045}
+{'nome': 'Zikadin', 'classe': 'EK', 'level': 616, 'exp': 3858569179}
+{'nome': 'Allianz', 'classe': 'ED', 'level': 615, 'exp': 3847597231}
+{'nome': 'Paloma Mailinha', 'classe': 'ED', 'level': 615, 'exp': 3846219203}
+{'nome': 'Juninsz Oldlankz', 'classe': 'ED', 'level': 615, 'exp': 3845946047}
+{'nome': 'Dpsy', 'classe': 'ED', 'level': 615, 'exp': 3843326166}
+{'nome': 'Lord Aarao', 'classe': 'RP', 'level': 615, 'exp': 3843150942}
+{'nome': 'The Rules', 'classe': 'RP', 'level': 615, 'exp': 3842238536}
+{'nome': 'Pro Noaki', 'classe': 'ED', 'level': 615, 'exp': 3841375410}
+{'nome': 'Subto', 'classe': 'RP', 'level': 615, 'exp': 3840445592}
+{'nome': 'Skol Sensation', 'classe': 'MS', 'level': 615, 'exp': 3839289170}
+{'nome': 'El Gordo Loco', 'classe': 'RP', 'level': 614, 'exp': 3838797229}
+{'nome': 'Ivar Odesossado', 'classe': 'RP', 'level': 614, 'exp': 3838389060}
+{'nome': 'Lord Zin', 'classe': 'RP', 'level': 614, 'exp': 3837915990}
+{'nome': 'Ravok', 'classe': 'MS', 'level': 614, 'exp': 3836339739}
+{'nome': 'Suvaco Cabeludo', 'classe': 'RP', 'level': 614, 'exp': 3834993393}
+{'nome': 'Supreme Cokess', 'classe': 'MS', 'level': 614, 'exp': 3834392385}
+{'nome': 'Buda Royal', 'classe': 'RP', 'level': 614, 'exp': 3832746613}
+{'nome': 'Lord Rodox', 'classe': 'ED', 'level': 614, 'exp': 3829260272}
+{'nome': 'Truncks', 'classe': 'ED', 'level': 614, 'exp': 3827350833}
+{'nome': 'Jebem Ti Mater', 'classe': 'RP', 'level': 614, 'exp': 3825225405}
+{'nome': 'Nenhor', 'classe': 'RP', 'level': 614, 'exp': 3823812258}
+{'nome': 'Druiid Rush', 'classe': 'ED', 'level': 614, 'exp': 3822561638}
+{'nome': 'Hoover', 'classe': 'ED', 'level': 614, 'exp': 3822547263}
+{'nome': 'Tekao', 'classe': 'ED', 'level': 614, 'exp': 3822025550}
+{'nome': 'Monster Machine', 'classe': 'EK', 'level': 613, 'exp': 3820264755}
+{'nome': 'Radzki', 'classe': 'ED', 'level': 613, 'exp': 3818141438}
+{'nome': 'Snowy', 'classe': 'RP', 'level': 613, 'exp': 3815690999}
+{'nome': 'Eduardo Teixeira', 'classe': 'ED', 'level': 613, 'exp': 3813129040}
+{'nome': 'Vitin Dashwar', 'classe': 'MS', 'level': 613, 'exp': 3812331432}
+{'nome': 'Boom Tam Tam', 'classe': 'ED', 'level': 613, 'exp': 3811621706}
+{'nome': 'Paladino do mal', 'classe': 'RP', 'level': 613, 'exp': 3811591711}
+{'nome': 'Nikka Fullon', 'classe': 'ED', 'level': 613, 'exp': 3811590028}
+{'nome': 'Eduh Zika', 'classe': 'ED', 'level': 613, 'exp': 3809149786}
+{'nome': 'El Mage Loco', 'classe': 'ED', 'level': 613, 'exp': 3808403864}
+{'nome': 'Minha Diva Satrico', 'classe': 'RP', 'level': 613, 'exp': 3804672680}
+{'nome': 'Windy Kill Bot', 'classe': 'RP', 'level': 613, 'exp': 3804502491}
+{'nome': 'Capitao Do Guetto', 'classe': 'RP', 'level': 613, 'exp': 3804325083}
+{'nome': 'Hi Push Me', 'classe': 'ED', 'level': 613, 'exp': 3802162965}
+{'nome': 'Sukraiter', 'classe': 'RP', 'level': 612, 'exp': 3791647639}
+{'nome': 'Soumaispally', 'classe': 'RP', 'level': 612, 'exp': 3788918756}
+{'nome': 'Castiel Suicida', 'classe': 'ED', 'level': 612, 'exp': 3784810198}
+{'nome': 'Seu Madruga Owned', 'classe': 'RP', 'level': 611, 'exp': 3781095487}
+{'nome': 'Royal Spy', 'classe': 'RP', 'level': 611, 'exp': 3779417915}
+{'nome': 'Pqdt Milico', 'classe': 'RP', 'level': 611, 'exp': 3777676778}
+{'nome': 'Eve Rullex', 'classe': 'RP', 'level': 611, 'exp': 3777525552}
+{'nome': 'Walvogznever', 'classe': 'RP', 'level': 611, 'exp': 3776278091}
+{'nome': 'Hang Loose', 'classe': 'ED', 'level': 611, 'exp': 3774745758}
+{'nome': 'Guizerah Dashow', 'classe': 'ED', 'level': 611, 'exp': 3773560994}
+{'nome': 'Enzi Khaos', 'classe': 'ED', 'level': 611, 'exp': 3771129086}
+{'nome': 'Bob Motel', 'classe': 'EK', 'level': 611, 'exp': 3768346341}
+{'nome': 'Qqmuda Best Hit', 'classe': 'RP', 'level': 611, 'exp': 3766609004}
+{'nome': 'Yuya Kamoto', 'classe': 'RP', 'level': 611, 'exp': 3766580912}
+{'nome': 'Dogir Knix Kelvin', 'classe': 'ED', 'level': 611, 'exp': 3766351688}
+{'nome': 'Biel Returns', 'classe': 'RP', 'level': 611, 'exp': 3765835409}
+{'nome': 'Kakaroth', 'classe': 'RP', 'level': 610, 'exp': 3764032594}
+{'nome': 'Minao Tacawall', 'classe': 'EK', 'level': 610, 'exp': 3763651616}
+{'nome': 'Eternal Six', 'classe': 'RP', 'level': 610, 'exp': 3763291176}
+{'nome': 'Pleups', 'classe': 'EK', 'level': 610, 'exp': 3762949225}
+{'nome': 'Curiepeiro', 'classe': 'ED', 'level': 610, 'exp': 3761910647}
+{'nome': 'Hagoromo Otsutsuki', 'classe': 'RP', 'level': 610, 'exp': 3760521250}
+{'nome': 'Deathnote', 'classe': 'MS', 'level': 610, 'exp': 3760073976}
+{'nome': 'Lipeh', 'classe': 'ED', 'level': 610, 'exp': 3759062369}
+{'nome': 'Goiaba Rush', 'classe': 'MS', 'level': 610, 'exp': 3757749603}
+{'nome': 'Bellotax', 'classe': 'ED', 'level': 610, 'exp': 3757236651}
+{'nome': 'Meu Toba Cu', 'classe': 'ED', 'level': 610, 'exp': 3755926178}
+{'nome': 'Quero Red', 'classe': 'ED', 'level': 610, 'exp': 3754851992}
+{'nome': 'Sgn Impossible', 'classe': 'ED', 'level': 610, 'exp': 3753754954}
+{'nome': 'Holy Brothers', 'classe': 'ED', 'level': 610, 'exp': 3752124569}
+{'nome': 'Merere', 'classe': 'RP', 'level': 610, 'exp': 3749512705}
+{'nome': 'Neto', 'classe': 'ED', 'level': 610, 'exp': 3747390914}
+{'nome': 'Estrelar Estrela', 'classe': 'ED', 'level': 610, 'exp': 3747226117}
+{'nome': 'Amoebinho', 'classe': 'ED', 'level': 610, 'exp': 3746368939}
+{'nome': 'Chuck Bass', 'classe': 'RP', 'level': 610, 'exp': 3745982329}
+{'nome': 'Ciro Cavebot Baiak', 'classe': 'MS', 'level': 609, 'exp': 3745582110}
+{'nome': 'Leezin', 'classe': 'RP', 'level': 609, 'exp': 3745470778}
+{'nome': 'Pala Brejcha', 'classe': 'RP', 'level': 609, 'exp': 3743009212}
+{'nome': 'Fuck House', 'classe': 'ED', 'level': 609, 'exp': 3742939592}
+{'nome': 'Hypotenusa', 'classe': 'RP', 'level': 609, 'exp': 3742621818}
+{'nome': 'Easy', 'classe': 'EK', 'level': 609, 'exp': 3741870236}
+{'nome': 'Taka flecha', 'classe': 'RP', 'level': 609, 'exp': 3739447529}
+{'nome': 'Gufox', 'classe': 'RP', 'level': 609, 'exp': 3739321122}
+{'nome': 'Pleasexd', 'classe': 'ED', 'level': 609, 'exp': 3739283042}
+{'nome': 'Paladin Bdm', 'classe': 'RP', 'level': 609, 'exp': 3737987547}
+{'nome': 'Premier', 'classe': 'ED', 'level': 609, 'exp': 3736935660}
+{'nome': 'Mordekai', 'classe': 'MS', 'level': 609, 'exp': 3736482402}
+{'nome': 'Faelim', 'classe': 'RP', 'level': 609, 'exp': 3736377144}
+{'nome': 'Royal Tononzin', 'classe': 'RP', 'level': 609, 'exp': 3730072586}
+{'nome': 'Parkway Drive', 'classe': 'ED', 'level': 609, 'exp': 3728623970}
+{'nome': 'Jensen Ackles', 'classe': 'RP', 'level': 609, 'exp': 3727529864}
+{'nome': 'Dom Havoc', 'classe': 'MS', 'level': 608, 'exp': 3726852436}
+{'nome': 'Deputadotemer', 'classe': 'ED', 'level': 608, 'exp': 3725909088}
+{'nome': 'Awaken', 'classe': 'RP', 'level': 608, 'exp': 3725636074}
+{'nome': 'The Federal', 'classe': 'EK', 'level': 608, 'exp': 3725356536}
+{'nome': 'Windy Kill Bots', 'classe': 'RP', 'level': 608, 'exp': 3725170094}
+{'nome': 'Gaia Saint', 'classe': 'RP', 'level': 608, 'exp': 3724850932}
+{'nome': 'Thuertes', 'classe': 'EK', 'level': 608, 'exp': 3724815885}
+{'nome': 'Alvaro Here', 'classe': 'ED', 'level': 608, 'exp': 3722385872}
+{'nome': 'Joker Druiid', 'classe': 'ED', 'level': 608, 'exp': 3722083818}
+{'nome': 'Bruno Tenente', 'classe': 'RP', 'level': 608, 'exp': 3718926742}
+{'nome': 'Pichimawiru', 'classe': 'RP', 'level': 608, 'exp': 3717796946}
+{'nome': 'Geezy', 'classe': 'ED', 'level': 608, 'exp': 3717494095}
+{'nome': 'Murderking', 'classe': 'RP', 'level': 608, 'exp': 3717289472}
+{'nome': 'Quwepe', 'classe': 'ED', 'level': 608, 'exp': 3716716414}
+{'nome': 'Tropecard', 'classe': 'RP', 'level': 608, 'exp': 3716374924}
+{'nome': 'Ishida Uryuu', 'classe': 'RP', 'level': 608, 'exp': 3714391533}
+{'nome': 'Bznnn', 'classe': 'MS', 'level': 608, 'exp': 3714274046}
+{'nome': 'Black Blocadora', 'classe': 'EK', 'level': 608, 'exp': 3711880892}
+{'nome': 'Micoli', 'classe': 'ED', 'level': 608, 'exp': 3711718262}
+{'nome': 'Putero Of Akt', 'classe': 'RP', 'level': 608, 'exp': 3711398645}
+{'nome': 'Kuwaarq Borestt', 'classe': 'ED', 'level': 608, 'exp': 3711043368}
+{'nome': 'Zerosk', 'classe': 'EK', 'level': 608, 'exp': 3710444971}
+{'nome': 'Riktor', 'classe': 'RP', 'level': 608, 'exp': 3709530095}
+{'nome': 'Math Mago', 'classe': 'ED', 'level': 607, 'exp': 3708794694}
+{'nome': 'Bravo Zulu', 'classe': 'EK', 'level': 607, 'exp': 3708550545}
+{'nome': 'Vi Que Tor', 'classe': 'ED', 'level': 607, 'exp': 3707272078}
+{'nome': 'Emperor Buttowski', 'classe': 'RP', 'level': 607, 'exp': 3706844028}
+{'nome': 'Stone Skin', 'classe': 'ED', 'level': 607, 'exp': 3705077324}
+{'nome': 'Fennyx', 'classe': 'ED', 'level': 607, 'exp': 3705053935}
+{'nome': 'Thorin Oakenshield', 'classe': 'EK', 'level': 607, 'exp': 3704553087}
+{'nome': 'Tenente Banker', 'classe': 'EK', 'level': 607, 'exp': 3703581398}
+{'nome': 'Mysterious', 'classe': 'ED', 'level': 607, 'exp': 3701507522}
+{'nome': 'Soul Lost', 'classe': 'MS', 'level': 607, 'exp': 3699911923}
+{'nome': 'Delmal', 'classe': 'EK', 'level': 607, 'exp': 3698683522}
+{'nome': 'Markz', 'classe': 'ED', 'level': 607, 'exp': 3698384618}
+{'nome': 'Bagoul', 'classe': 'ED', 'level': 607, 'exp': 3697745088}
+{'nome': 'Valone', 'classe': 'ED', 'level': 607, 'exp': 3697388675}
+{'nome': 'Tixan', 'classe': 'ED', 'level': 607, 'exp': 3697324878}
+{'nome': 'Rootts', 'classe': 'ED', 'level': 607, 'exp': 3696669128}
+{'nome': 'Shooter Boy', 'classe': 'ED', 'level': 607, 'exp': 3696653790}
+{'nome': 'Lucas Al', 'classe': 'ED', 'level': 607, 'exp': 3696385213}
+{'nome': 'Verminose', 'classe': 'RP', 'level': 607, 'exp': 3695343866}
+{'nome': 'Niibs Archer', 'classe': 'RP', 'level': 607, 'exp': 3695294022}
+{'nome': 'Zyroo', 'classe': 'ED', 'level': 607, 'exp': 3695236444}
+{'nome': 'Axe Charlove', 'classe': 'MS', 'level': 607, 'exp': 3694102098}
+{'nome': 'Shadow Bolt', 'classe': 'RP', 'level': 607, 'exp': 3693993749}
+{'nome': 'Machista opressor', 'classe': 'EK', 'level': 607, 'exp': 3691805356}
+{'nome': 'Margarina', 'classe': 'ED', 'level': 607, 'exp': 3691190071}
+{'nome': 'Champion Wolf', 'classe': 'ED', 'level': 607, 'exp': 3690983058}
+{'nome': 'Luke Muiloko', 'classe': 'MS', 'level': 606, 'exp': 3690368935}
+{'nome': 'Rieg Bdj', 'classe': 'ED', 'level': 606, 'exp': 3688222535}
+{'nome': 'Almost Killerl', 'classe': 'RP', 'level': 606, 'exp': 3687875986}
+{'nome': 'Murdoc', 'classe': 'ED', 'level': 606, 'exp': 3687771085}
+{'nome': 'Tchunay', 'classe': 'ED', 'level': 606, 'exp': 3687701006}
+{'nome': 'Cusitox Rp', 'classe': 'RP', 'level': 606, 'exp': 3686830961}
+{'nome': 'Gothmog', 'classe': 'ED', 'level': 606, 'exp': 3686770955}
+{'nome': 'Pimentinha Crzy', 'classe': 'RP', 'level': 606, 'exp': 3685089351}
+{'nome': 'Lucao Thug Life', 'classe': 'ED', 'level': 606, 'exp': 3682937655}
+{'nome': 'Theuzikk', 'classe': 'ED', 'level': 606, 'exp': 3682666616}
+{'nome': 'Mage Angel', 'classe': 'ED', 'level': 606, 'exp': 3682011250}
+{'nome': 'Eu Sei La', 'classe': 'RP', 'level': 606, 'exp': 3680894537}
+{'nome': 'Pally Of Lost', 'classe': 'RP', 'level': 606, 'exp': 3680153840}
+{'nome': 'Iguuh Dashoow', 'classe': 'ED', 'level': 606, 'exp': 3680142326}
+{'nome': 'Arwen', 'classe': 'RP', 'level': 606, 'exp': 3679045355}
+{'nome': 'Plugzin', 'classe': 'ED', 'level': 606, 'exp': 3678936892}
+{'nome': 'Coronga Virus', 'classe': 'RP', 'level': 606, 'exp': 3678760336}
+{'nome': 'Evril Canalha', 'classe': 'EK', 'level': 606, 'exp': 3678402819}
+{'nome': 'Marinhoxzor', 'classe': 'ED', 'level': 606, 'exp': 3678340058}
+{'nome': 'Cu De Cana', 'classe': 'EK', 'level': 606, 'exp': 3677372409}
+{'nome': 'Uzumaki Himawari', 'classe': 'RP', 'level': 606, 'exp': 3676684229}
+{'nome': 'Saruman The White', 'classe': 'MS', 'level': 606, 'exp': 3673451678}
+{'nome': 'Jean De Flak Low', 'classe': 'RP', 'level': 606, 'exp': 3673045193}
+{'nome': 'Questao Familiar', 'classe': 'MS', 'level': 606, 'exp': 3673021631}
+{'nome': 'Xie Xiao', 'classe': 'EK', 'level': 606, 'exp': 3672857196}
+{'nome': 'Master Loked', 'classe': 'MS', 'level': 605, 'exp': 3672466492}
+{'nome': 'Snager', 'classe': 'RP', 'level': 605, 'exp': 3672448578}
+{'nome': 'Tchezerah Tank', 'classe': 'EK', 'level': 605, 'exp': 3672129089}
+{'nome': 'Mystogann', 'classe': 'RP', 'level': 605, 'exp': 3670255373}
+{'nome': 'Sleepy', 'classe': 'RP', 'level': 605, 'exp': 3669798006}
+{'nome': 'Zwinn Archer', 'classe': 'RP', 'level': 605, 'exp': 3669455008}
+{'nome': 'Yago Ak Trovao', 'classe': 'ED', 'level': 605, 'exp': 3669360112}
+{'nome': 'Rp zin', 'classe': 'RP', 'level': 605, 'exp': 3669273927}
+{'nome': 'Athena Jr', 'classe': 'RP', 'level': 605, 'exp': 3669224956}
+{'nome': 'All Bob', 'classe': 'RP', 'level': 605, 'exp': 3668817404}
+{'nome': 'Copperfield', 'classe': 'ED', 'level': 605, 'exp': 3668615137}
+{'nome': 'Zewbow', 'classe': 'RP', 'level': 605, 'exp': 3668260433}
+{'nome': 'Deathking', 'classe': 'RP', 'level': 605, 'exp': 3667246378}
+{'nome': 'Thousand Bolts', 'classe': 'RP', 'level': 605, 'exp': 3666927697}
+{'nome': 'Homepaly', 'classe': 'RP', 'level': 605, 'exp': 3666305224}
+{'nome': 'Glowka Reki', 'classe': 'RP', 'level': 605, 'exp': 3666212472}
+{'nome': 'Kriito', 'classe': 'RP', 'level': 605, 'exp': 3666071607}
+{'nome': 'Tche Lindo', 'classe': 'ED', 'level': 605, 'exp': 3665614610}
+{'nome': 'So Laments', 'classe': 'ED', 'level': 605, 'exp': 3665421707}
+{'nome': 'Paladina Robotica', 'classe': 'RP', 'level': 605, 'exp': 3665066529}
+{'nome': 'Kina Maldoso', 'classe': 'EK', 'level': 605, 'exp': 3664669123}
+{'nome': 'Prozika', 'classe': 'ED', 'level': 605, 'exp': 3664439188}
+{'nome': 'Silent Player', 'classe': 'EK', 'level': 605, 'exp': 3663015025}
+{'nome': 'Onde Tu Vai', 'classe': 'MS', 'level': 605, 'exp': 3662573712}
+{'nome': 'Blast Rush', 'classe': 'MS', 'level': 605, 'exp': 3662485830}
+{'nome': 'Stewiek', 'classe': 'ED', 'level': 605, 'exp': 3662423200}
+{'nome': 'Software', 'classe': 'ED', 'level': 605, 'exp': 3661947346}
+{'nome': 'Ramon', 'classe': 'RP', 'level': 605, 'exp': 3660806830}
+{'nome': 'Legolas Quickscope', 'classe': 'RP', 'level': 605, 'exp': 3660600640}
+{'nome': 'Eyshyeld', 'classe': 'EK', 'level': 605, 'exp': 3660389079}
+{'nome': 'Tsey', 'classe': 'ED', 'level': 605, 'exp': 3659824001}
+{'nome': 'Kitto', 'classe': 'RP', 'level': 605, 'exp': 3659802882}
+{'nome': 'Biasao Ms', 'classe': 'MS', 'level': 605, 'exp': 3659306691}
+{'nome': 'Atirador De Bostas', 'classe': 'RP', 'level': 605, 'exp': 3658731992}
+{'nome': 'Bucetao da bahia', 'classe': 'MS', 'level': 605, 'exp': 3658685215}
+{'nome': 'Muleke Do Carulas', 'classe': 'RP', 'level': 605, 'exp': 3658660223}
+{'nome': 'Lord Leo', 'classe': 'RP', 'level': 605, 'exp': 3657618397}
+{'nome': 'Sapinho', 'classe': 'ED', 'level': 605, 'exp': 3657444339}
+{'nome': 'Archer Of Hell', 'classe': 'RP', 'level': 605, 'exp': 3657157502}
+{'nome': 'Lord Bizarre', 'classe': 'MS', 'level': 605, 'exp': 3657089966}
+{'nome': 'Park Art', 'classe': 'RP', 'level': 605, 'exp': 3656916511}
+{'nome': 'Emily Sz', 'classe': 'RP', 'level': 605, 'exp': 3656899043}
+{'nome': 'Stvn Hyde', 'classe': 'RP', 'level': 605, 'exp': 3655618701}
+{'nome': 'Faustim', 'classe': 'RP', 'level': 605, 'exp': 3655438131}
+{'nome': 'Meucu Poh', 'classe': 'ED', 'level': 605, 'exp': 3655342029}
+{'nome': 'Haru Jaao', 'classe': 'ED', 'level': 605, 'exp': 3655078601}
+{'nome': 'To Rushando', 'classe': 'ED', 'level': 605, 'exp': 3654391900}
+{'nome': 'Bo Kill', 'classe': 'RP', 'level': 605, 'exp': 3654328718}
+{'nome': 'Einar', 'classe': 'ED', 'level': 604, 'exp': 3654008012}
+{'nome': 'Saint Insane', 'classe': 'RP', 'level': 604, 'exp': 3653888314}
+{'nome': 'Quinn Win', 'classe': 'RP', 'level': 604, 'exp': 3653505369}
+{'nome': 'Hey Loukksz', 'classe': 'RP', 'level': 604, 'exp': 3653133489}
+{'nome': 'Charlie Briscow', 'classe': 'ED', 'level': 604, 'exp': 3652776596}
+{'nome': 'Divine Knight', 'classe': 'EK', 'level': 604, 'exp': 3652355110}
+{'nome': 'Homen Makako', 'classe': 'ED', 'level': 604, 'exp': 3652044145}
+{'nome': 'Firmezinha', 'classe': 'RP', 'level': 604, 'exp': 3651862742}
+{'nome': 'Ed Lynk', 'classe': 'ED', 'level': 604, 'exp': 3651221480}
+{'nome': 'Last Royal', 'classe': 'RP', 'level': 604, 'exp': 3650875418}
+{'nome': 'Kina Da Pancada', 'classe': 'EK', 'level': 604, 'exp': 3650352798}
+{'nome': 'Tatoow React', 'classe': 'ED', 'level': 604, 'exp': 3649365656}
+{'nome': 'Minao Paraamax', 'classe': 'ED', 'level': 604, 'exp': 3649313239}
+{'nome': 'Kindread', 'classe': 'RP', 'level': 604, 'exp': 3649259606}
+{'nome': 'Shiny Rhydon', 'classe': 'EK', 'level': 604, 'exp': 3648889220}
+{'nome': 'You Are Exausted', 'classe': 'EK', 'level': 604, 'exp': 3648311429}
+{'nome': 'Exkordon', 'classe': 'RP', 'level': 604, 'exp': 3648284540}
+{'nome': 'Rapunzel', 'classe': 'RP', 'level': 604, 'exp': 3648100905}
+{'nome': 'Tiu Bille', 'classe': 'ED', 'level': 604, 'exp': 3648065484}
+{'nome': 'Master Piru', 'classe': 'MS', 'level': 604, 'exp': 3647686244}
+{'nome': 'Dol Guldur', 'classe': 'RP', 'level': 604, 'exp': 3647561258}
+{'nome': 'Senior Cokess', 'classe': 'RP', 'level': 604, 'exp': 3646433384}
+{'nome': 'Usemax Heroin', 'classe': 'ED', 'level': 604, 'exp': 3646351715}
+{'nome': 'Fortt', 'classe': 'RP', 'level': 604, 'exp': 3645241219}
+{'nome': 'Boltada Nervosa', 'classe': 'RP', 'level': 604, 'exp': 3645212535}
+{'nome': 'Master Reset', 'classe': 'MS', 'level': 604, 'exp': 3644306736}
+{'nome': 'Carinha Al', 'classe': 'ED', 'level': 604, 'exp': 3643065975}
+{'nome': 'Pvpzk On Moviment', 'classe': 'EK', 'level': 604, 'exp': 3642930292}
+{'nome': 'Raider Knight', 'classe': 'EK', 'level': 604, 'exp': 3642131802}
+{'nome': 'Holly Pointer', 'classe': 'RP', 'level': 604, 'exp': 3641932453}
+{'nome': 'Kiwiiziin', 'classe': 'RP', 'level': 604, 'exp': 3641916647}
+{'nome': 'Muzera', 'classe': 'RP', 'level': 604, 'exp': 3641612692}
+{'nome': 'Mith', 'classe': 'RP', 'level': 604, 'exp': 3641593903}
+{'nome': 'Doidao De Cha', 'classe': 'ED', 'level': 604, 'exp': 3640546159}
+{'nome': 'Sevenboys', 'classe': 'ED', 'level': 604, 'exp': 3640291587}
+{'nome': 'Sace Asto', 'classe': 'MS', 'level': 604, 'exp': 3639681290}
+{'nome': 'Galaxy Ace', 'classe': 'RP', 'level': 604, 'exp': 3639271586}
+{'nome': 'Muth', 'classe': 'MS', 'level': 604, 'exp': 3639036998}
+{'nome': 'Xuxuzinhu', 'classe': 'ED', 'level': 604, 'exp': 3638078390}
+{'nome': 'Master Pallazin', 'classe': 'RP', 'level': 604, 'exp': 3637637865}
+{'nome': 'Supper Kennen', 'classe': 'EK', 'level': 604, 'exp': 3637473549}
+{'nome': 'Leziika', 'classe': 'RP', 'level': 604, 'exp': 3637222250}
+{'nome': 'Havoc Ironside', 'classe': 'RP', 'level': 604, 'exp': 3637169447}
+{'nome': 'Sir Palazin', 'classe': 'RP', 'level': 604, 'exp': 3637043495}
+{'nome': 'Chewbacca', 'classe': 'RP', 'level': 604, 'exp': 3636856488}
+{'nome': 'Padrinho Matador', 'classe': 'ED', 'level': 604, 'exp': 3636529737}
+{'nome': 'Wien Tacasd', 'classe': 'MS', 'level': 604, 'exp': 3636456756}
+{'nome': 'Newbba', 'classe': 'RP', 'level': 603, 'exp': 3634967463}
+{'nome': 'Willsz', 'classe': 'MS', 'level': 603, 'exp': 3634394116}
+{'nome': 'Makerdois', 'classe': 'ED', 'level': 603, 'exp': 3633517096}
+{'nome': 'Faitao Da Gaiola', 'classe': 'EK', 'level': 603, 'exp': 3633482489}
+{'nome': 'Hax Marroquino', 'classe': 'RP', 'level': 603, 'exp': 3633467386}
+{'nome': 'Cabral Loko', 'classe': 'RP', 'level': 603, 'exp': 3633394661}
+{'nome': 'Biscatona', 'classe': 'ED', 'level': 603, 'exp': 3633189049}
+{'nome': 'Underground', 'classe': 'ED', 'level': 603, 'exp': 3633028900}
+{'nome': 'Bombo Fica', 'classe': 'ED', 'level': 603, 'exp': 3632839186}
+{'nome': 'Snap Back', 'classe': 'ED', 'level': 603, 'exp': 3632834387}
+{'nome': 'Uzi Mec', 'classe': 'RP', 'level': 603, 'exp': 3632828948}
+{'nome': 'Mukabowl', 'classe': 'ED', 'level': 603, 'exp': 3631871598}
+{'nome': 'Lipinho', 'classe': 'ED', 'level': 603, 'exp': 3629750923}
+{'nome': 'Ator Mentado', 'classe': 'RP', 'level': 603, 'exp': 3629698766}
+{'nome': 'Alissia', 'classe': 'RP', 'level': 603, 'exp': 3629661797}
+{'nome': 'Pvp De Limao', 'classe': 'ED', 'level': 603, 'exp': 3629279537}
+{'nome': 'Sane', 'classe': 'ED', 'level': 603, 'exp': 3629240211}
+{'nome': 'Big Show', 'classe': 'EK', 'level': 603, 'exp': 3628897643}
+{'nome': 'Teteu Rusha', 'classe': 'ED', 'level': 603, 'exp': 3628838701}
+{'nome': 'Przywodztwo', 'classe': 'RP', 'level': 603, 'exp': 3628604973}
+{'nome': 'Don Master', 'classe': 'ED', 'level': 603, 'exp': 3628576335}
+{'nome': 'Follower', 'classe': 'ED', 'level': 603, 'exp': 3628174560}
+{'nome': 'Zack Fdp', 'classe': 'RP', 'level': 603, 'exp': 3628092922}
+{'nome': 'Bruxosz Neverlose', 'classe': 'ED', 'level': 603, 'exp': 3627357590}
+{'nome': 'Dixox', 'classe': 'EK', 'level': 603, 'exp': 3627273782}
+{'nome': 'Chrisliebing', 'classe': 'RP', 'level': 603, 'exp': 3626978911}
+{'nome': 'Palazoca', 'classe': 'RP', 'level': 603, 'exp': 3626486358}
+{'nome': 'Pelados Em Santos', 'classe': 'ED', 'level': 603, 'exp': 3626407994}
+{'nome': 'Xaropeshow Guga', 'classe': 'ED', 'level': 603, 'exp': 3626112457}
+{'nome': 'Xirix', 'classe': 'EK', 'level': 603, 'exp': 3625465245}
+{'nome': 'Tonyboy', 'classe': 'ED', 'level': 603, 'exp': 3625159116}
+{'nome': 'Ashes Starman', 'classe': 'RP', 'level': 603, 'exp': 3625049093}
+{'nome': 'Vagabundo Matador', 'classe': 'RP', 'level': 603, 'exp': 3624988881}
+{'nome': 'Tepaseiarola', 'classe': 'RP', 'level': 603, 'exp': 3624795988}
+{'nome': 'Ze Da Recaida', 'classe': 'MS', 'level': 603, 'exp': 3624654133}
+{'nome': 'Castrol', 'classe': 'RP', 'level': 603, 'exp': 3624547114}
+{'nome': 'Luke Cage', 'classe': 'RP', 'level': 603, 'exp': 3624401359}
+{'nome': 'Meninao', 'classe': 'RP', 'level': 603, 'exp': 3624054821}
+{'nome': 'Death Knight', 'classe': 'EK', 'level': 603, 'exp': 3623986214}
+{'nome': 'Master Power', 'classe': 'MS', 'level': 603, 'exp': 3623700913}
+{'nome': 'Mlk Bobo', 'classe': 'MS', 'level': 603, 'exp': 3623672893}
+{'nome': 'Kill In All', 'classe': 'RP', 'level': 603, 'exp': 3623512324}
+{'nome': 'Judete', 'classe': 'RP', 'level': 603, 'exp': 3623166317}
+{'nome': 'Guish', 'classe': 'ED', 'level': 603, 'exp': 3622737655}
+{'nome': 'Mcnnzord Baiakeira', 'classe': 'RP', 'level': 603, 'exp': 3622368333}
+{'nome': 'Paz Pela Paz', 'classe': 'ED', 'level': 603, 'exp': 3622278307}
+{'nome': 'Khal', 'classe': 'EK', 'level': 603, 'exp': 3622203048}
+{'nome': 'Pedrin Intercala', 'classe': 'ED', 'level': 603, 'exp': 3621705751}
+{'nome': 'Khadgar Blackrock', 'classe': 'RP', 'level': 603, 'exp': 3621657901}
+{'nome': 'Helix Mercenary', 'classe': 'ED', 'level': 603, 'exp': 3621465028}
+{'nome': 'Matz Rp', 'classe': 'RP', 'level': 603, 'exp': 3621440681}
+{'nome': 'Red Rose', 'classe': 'ED', 'level': 603, 'exp': 3621323720}
+{'nome': 'Sleepy Satan', 'classe': 'RP', 'level': 603, 'exp': 3620695348}
+{'nome': 'Berith', 'classe': 'ED', 'level': 603, 'exp': 3620503782}
+{'nome': 'Player Unknownn', 'classe': 'RP', 'level': 603, 'exp': 3620155724}
+{'nome': 'Loth Zeptelia', 'classe': 'RP', 'level': 603, 'exp': 3620049439}
+{'nome': 'Demorian', 'classe': 'RP', 'level': 603, 'exp': 3619905088}
+{'nome': 'Guguzera Pala', 'classe': 'RP', 'level': 603, 'exp': 3619576875}
+{'nome': 'Pakku', 'classe': 'ED', 'level': 603, 'exp': 3619456843}
+{'nome': 'Caminhao', 'classe': 'ED', 'level': 603, 'exp': 3619060969}
+{'nome': 'Pepe Louco', 'classe': 'MS', 'level': 603, 'exp': 3619017944}
+{'nome': 'No Faster', 'classe': 'RP', 'level': 603, 'exp': 3618964192}
+{'nome': 'Dorion Mercury', 'classe': 'ED', 'level': 603, 'exp': 3618927160}
+{'nome': 'Lady Death', 'classe': 'ED', 'level': 603, 'exp': 3618834911}
+{'nome': 'Artrerius', 'classe': 'ED', 'level': 603, 'exp': 3618423377}
+{'nome': 'Juninhow Styllo', 'classe': 'ED', 'level': 603, 'exp': 3618313304}
+{'nome': 'Max Night Ever', 'classe': 'MS', 'level': 603, 'exp': 3618145697}
+{'nome': 'Jony Du Mato', 'classe': 'ED', 'level': 602, 'exp': 3617812271}
+{'nome': 'Spectral Flame', 'classe': 'MS', 'level': 602, 'exp': 3617760737}
+{'nome': 'Mage Of Dark', 'classe': 'ED', 'level': 602, 'exp': 3617479837}
+{'nome': 'Maka Cheira', 'classe': 'ED', 'level': 602, 'exp': 3617273179}
+{'nome': 'Mc Paladin Litox', 'classe': 'RP', 'level': 602, 'exp': 3617013157}
+{'nome': 'Black Dog', 'classe': 'EK', 'level': 602, 'exp': 3616943845}
+{'nome': 'Oh My Ghaz', 'classe': 'ED', 'level': 602, 'exp': 3616647888}
+{'nome': 'Azor Hi', 'classe': 'ED', 'level': 602, 'exp': 3616510657}
+{'nome': 'Pally Dead', 'classe': 'RP', 'level': 602, 'exp': 3616470392}
+{'nome': 'Nisz', 'classe': 'ED', 'level': 602, 'exp': 3616184172}
+{'nome': 'Jokiphore', 'classe': 'RP', 'level': 602, 'exp': 3615492439}
+{'nome': 'Sir Achira', 'classe': 'RP', 'level': 602, 'exp': 3614520985}
+{'nome': 'Shyzon', 'classe': 'ED', 'level': 602, 'exp': 3613892991}
+{'nome': 'Lord Gaturro', 'classe': 'ED', 'level': 602, 'exp': 3613720047}
+{'nome': 'Telinha', 'classe': 'ED', 'level': 602, 'exp': 3613385277}
+{'nome': 'Luakss', 'classe': 'RP', 'level': 602, 'exp': 3612854965}
+{'nome': 'Theusma', 'classe': 'ED', 'level': 602, 'exp': 3612599655}
+{'nome': 'Soul Cracudo', 'classe': 'MS', 'level': 602, 'exp': 3612386285}
+{'nome': 'Wilzin Neon', 'classe': 'ED', 'level': 602, 'exp': 3612121911}
+{'nome': 'Megatronn', 'classe': 'EK', 'level': 602, 'exp': 3612017682}
+{'nome': 'Tiida', 'classe': 'ED', 'level': 602, 'exp': 3611931201}
+{'nome': 'Caputiri', 'classe': 'ED', 'level': 602, 'exp': 3611897330}
+{'nome': 'Jenni Tank', 'classe': 'EK', 'level': 602, 'exp': 3611386617}
+{'nome': 'Meto Bala', 'classe': 'ED', 'level': 602, 'exp': 3611329281}
+{'nome': 'Best Marola', 'classe': 'RP', 'level': 602, 'exp': 3610956015}
+{'nome': 'Cody', 'classe': 'ED', 'level': 602, 'exp': 3610888331}
+{'nome': 'Lucasalef', 'classe': 'MS', 'level': 602, 'exp': 3610708074}
+{'nome': 'Jeison Dashow', 'classe': 'ED', 'level': 602, 'exp': 3610679110}
+{'nome': 'Sherebin', 'classe': 'ED', 'level': 602, 'exp': 3610630708}
+{'nome': 'Dark Sky', 'classe': 'RP', 'level': 602, 'exp': 3610402134}
+{'nome': 'Picoleu', 'classe': 'EK', 'level': 602, 'exp': 3610323313}
+{'nome': 'Blaziken', 'classe': 'MS', 'level': 602, 'exp': 3610168592}
+{'nome': 'Kooshei', 'classe': 'ED', 'level': 602, 'exp': 3610086816}
+{'nome': 'Bew Knight', 'classe': 'EK', 'level': 602, 'exp': 3609748164}
+{'nome': 'Sohvai', 'classe': 'RP', 'level': 602, 'exp': 3609495969}
+{'nome': 'Merci Beaucoup', 'classe': 'ED', 'level': 602, 'exp': 3608488758}
+{'nome': 'Batistuta Raiz', 'classe': 'RP', 'level': 602, 'exp': 3608380614}
+{'nome': 'Sabotagee', 'classe': 'RP', 'level': 602, 'exp': 3608224037}
+{'nome': 'Ciiroc', 'classe': 'ED', 'level': 602, 'exp': 3608061443}
+{'nome': 'Ruless', 'classe': 'ED', 'level': 602, 'exp': 3608053665}
+{'nome': 'Alvaro Rush', 'classe': 'RP', 'level': 602, 'exp': 3607809190}
+{'nome': 'Lambe Grelho', 'classe': 'MS', 'level': 602, 'exp': 3607766744}
+{'nome': 'Zang', 'classe': 'ED', 'level': 602, 'exp': 3607763380}
+{'nome': 'Pally Back', 'classe': 'RP', 'level': 602, 'exp': 3607603626}
+{'nome': 'Fantasmy', 'classe': 'RP', 'level': 602, 'exp': 3607419268}
+{'nome': 'Aztalavista', 'classe': 'RP', 'level': 602, 'exp': 3607120237}
+{'nome': 'Markziik', 'classe': 'RP', 'level': 602, 'exp': 3606707631}
+{'nome': 'Lipekz Is God', 'classe': 'ED', 'level': 602, 'exp': 3606674456}
+{'nome': 'Manolow', 'classe': 'RP', 'level': 602, 'exp': 3606633260}
+{'nome': 'Kaahsz Bueno', 'classe': 'RP', 'level': 602, 'exp': 3606491234}
+{'nome': 'Dj Lorita', 'classe': 'ED', 'level': 602, 'exp': 3606386026}
+{'nome': 'Maylla', 'classe': 'MS', 'level': 602, 'exp': 3606379849}
+{'nome': 'Zadkiel', 'classe': 'ED', 'level': 602, 'exp': 3606308123}
+{'nome': 'Harvey Speccter', 'classe': 'RP', 'level': 602, 'exp': 3606148618}
+{'nome': 'Especialista', 'classe': 'RP', 'level': 602, 'exp': 3605987641}
+{'nome': 'Killatak', 'classe': 'RP', 'level': 602, 'exp': 3605873320}
+{'nome': 'Escanor Fatality', 'classe': 'EK', 'level': 602, 'exp': 3605869111}
+{'nome': 'Wollick', 'classe': 'RP', 'level': 602, 'exp': 3605807753}
+{'nome': 'Di ih', 'classe': 'ED', 'level': 602, 'exp': 3605802274}
+{'nome': 'Syndoquai', 'classe': 'ED', 'level': 602, 'exp': 3605578069}
+{'nome': 'Thee Jack', 'classe': 'EK', 'level': 602, 'exp': 3605368762}
+{'nome': 'Deboresty Warfull', 'classe': 'ED', 'level': 602, 'exp': 3605279636}
+{'nome': 'Elder Cokess', 'classe': 'ED', 'level': 602, 'exp': 3605237387}
+{'nome': 'Lucimus', 'classe': 'MS', 'level': 602, 'exp': 3605039595}
+{'nome': 'Laka The King', 'classe': 'ED', 'level': 602, 'exp': 3604974080}
+{'nome': 'Poppy', 'classe': 'EK', 'level': 602, 'exp': 3604921743}
+{'nome': 'Lukao On', 'classe': 'ED', 'level': 602, 'exp': 3604902961}
+{'nome': 'So Mato Bots', 'classe': 'ED', 'level': 602, 'exp': 3604855198}
+{'nome': 'Magic Blue', 'classe': 'ED', 'level': 602, 'exp': 3604735812}
+{'nome': 'Smirnof', 'classe': 'RP', 'level': 602, 'exp': 3604644201}
+{'nome': 'Levyty', 'classe': 'EK', 'level': 602, 'exp': 3604584849}
+{'nome': 'Klaytin', 'classe': 'EK', 'level': 602, 'exp': 3604055810}
+{'nome': 'Demonoide', 'classe': 'RP', 'level': 602, 'exp': 3603996229}
+{'nome': 'Palla Ninja', 'classe': 'RP', 'level': 602, 'exp': 3603941618}
+{'nome': 'Netyfrix', 'classe': 'ED', 'level': 602, 'exp': 3603779804}
+{'nome': 'Mayara Fernandes', 'classe': 'ED', 'level': 602, 'exp': 3603589777}
+{'nome': 'Alerquina Rullez', 'classe': 'ED', 'level': 602, 'exp': 3603141923}
+{'nome': 'Gossanu', 'classe': 'ED', 'level': 602, 'exp': 3602866170}
+{'nome': 'Atipq', 'classe': 'ED', 'level': 602, 'exp': 3602858842}
+{'nome': 'Budiweiser', 'classe': 'RP', 'level': 602, 'exp': 3602742448}
+{'nome': 'Vlad Empalador', 'classe': 'RP', 'level': 602, 'exp': 3602604343}
+{'nome': 'The Wanted', 'classe': 'RP', 'level': 602, 'exp': 3602561374}
+{'nome': 'Paladino Supremo', 'classe': 'RP', 'level': 602, 'exp': 3602497273}
+{'nome': 'Maju Trindade', 'classe': 'ED', 'level': 602, 'exp': 3602352942}
+{'nome': 'Luke Druid', 'classe': 'ED', 'level': 602, 'exp': 3602340126}
+{'nome': 'King Deelas', 'classe': 'ED', 'level': 602, 'exp': 3602220228}
+{'nome': 'Provokador', 'classe': 'RP', 'level': 602, 'exp': 3602191747}
+{'nome': 'Krowler', 'classe': 'ED', 'level': 602, 'exp': 3602113224}
+{'nome': 'Bad Company', 'classe': 'RP', 'level': 602, 'exp': 3602032834}
+{'nome': 'Temaki', 'classe': 'ED', 'level': 602, 'exp': 3601945166}
+{'nome': 'Te Mateidemorte', 'classe': 'EK', 'level': 602, 'exp': 3601855313}
+{'nome': 'Royal Netdown', 'classe': 'RP', 'level': 602, 'exp': 3601664568}
+{'nome': 'Tenente Bitao', 'classe': 'ED', 'level': 602, 'exp': 3601608354}
+{'nome': 'Orixa Sovietico', 'classe': 'RP', 'level': 602, 'exp': 3601483135}
+{'nome': 'Tomalia', 'classe': 'ED', 'level': 602, 'exp': 3601205498}
+{'nome': 'Joao Sz', 'classe': 'ED', 'level': 602, 'exp': 3601179758}
+{'nome': 'Close', 'classe': 'RP', 'level': 602, 'exp': 3600956228}
+{'nome': 'The Top', 'classe': 'ED', 'level': 602, 'exp': 3600949375}
+{'nome': 'Haka', 'classe': 'RP', 'level': 602, 'exp': 3600879422}
+{'nome': 'Will Meu Enteado', 'classe': 'ED', 'level': 602, 'exp': 3600828757}
+{'nome': 'Deadly Rip', 'classe': 'RP', 'level': 602, 'exp': 3600789269}
+{'nome': 'Pan Koaj', 'classe': 'ED', 'level': 602, 'exp': 3600774730}
+{'nome': 'Rossebaud', 'classe': 'ED', 'level': 602, 'exp': 3600731528}
+{'nome': 'Zaraki no kenpachi', 'classe': 'RP', 'level': 602, 'exp': 3600579795}
+{'nome': 'Volvoo', 'classe': 'ED', 'level': 602, 'exp': 3600548215}
+{'nome': 'Kami Lukinha', 'classe': 'RP', 'level': 602, 'exp': 3600509446}
+{'nome': 'Axaxa La Xoxo', 'classe': 'ED', 'level': 602, 'exp': 3600483106}
+{'nome': 'Sorc Cruel', 'classe': 'MS', 'level': 602, 'exp': 3600469699}
+{'nome': 'Verme', 'classe': 'RP', 'level': 602, 'exp': 3600429898}
+{'nome': 'Makerquatorze', 'classe': 'ED', 'level': 602, 'exp': 3600359017}
+{'nome': 'Nubizinho', 'classe': 'EK', 'level': 602, 'exp': 3600246254}
+{'nome': 'Young Mascka', 'classe': 'RP', 'level': 602, 'exp': 3600139871}
+{'nome': 'Flash Grillo', 'classe': 'RP', 'level': 601, 'exp': 3599627945}
+{'nome': 'Radagast The Brown', 'classe': 'ED', 'level': 601, 'exp': 3599442307}
+{'nome': 'Duff System', 'classe': 'RP', 'level': 601, 'exp': 3599189560}
+{'nome': 'Arantes Sc', 'classe': 'ED', 'level': 601, 'exp': 3599152406}
+{'nome': 'Pocapoha', 'classe': 'RP', 'level': 601, 'exp': 3598883755}
+{'nome': 'Dellaa', 'classe': 'RP', 'level': 601, 'exp': 3598521976}
+{'nome': 'Flecha Tortta', 'classe': 'RP', 'level': 601, 'exp': 3598424268}
+{'nome': 'Mistrupa', 'classe': 'ED', 'level': 601, 'exp': 3598319495}
+{'nome': 'Lucas Rushzera', 'classe': 'ED', 'level': 601, 'exp': 3598261796}
+{'nome': 'Lord Melliodas', 'classe': 'MS', 'level': 601, 'exp': 3598050276}
+{'nome': 'Intocable', 'classe': 'MS', 'level': 601, 'exp': 3597983523}
+{'nome': 'Mestre Do Desastre', 'classe': 'ED', 'level': 601, 'exp': 3597958867}
+{'nome': 'Silencioso', 'classe': 'EK', 'level': 601, 'exp': 3597864687}
+{'nome': 'Paladin Cavalo', 'classe': 'RP', 'level': 601, 'exp': 3597657198}
+{'nome': 'Tholfin', 'classe': 'EK', 'level': 601, 'exp': 3597628802}
+{'nome': 'Thor Skybolt', 'classe': 'RP', 'level': 601, 'exp': 3597591205}
+{'nome': 'Slow Down', 'classe': 'RP', 'level': 601, 'exp': 3597306741}
+{'nome': 'Doors', 'classe': 'EK', 'level': 601, 'exp': 3597166225}
+{'nome': 'Pally Lombreiro', 'classe': 'RP', 'level': 601, 'exp': 3597163983}
+{'nome': 'Scareface', 'classe': 'ED', 'level': 601, 'exp': 3597121214}
+{'nome': 'Gakatos', 'classe': 'RP', 'level': 601, 'exp': 3597011233}
+{'nome': 'Dichavas', 'classe': 'RP', 'level': 601, 'exp': 3596926072}
+{'nome': 'Blizz', 'classe': 'ED', 'level': 601, 'exp': 3596787460}
+{'nome': 'Bullring', 'classe': 'ED', 'level': 601, 'exp': 3596716771}
+{'nome': 'Nenao Sagaz', 'classe': 'EK', 'level': 601, 'exp': 3596611667}
+{'nome': 'Dircley', 'classe': 'RP', 'level': 601, 'exp': 3596608039}
+{'nome': 'Black Label', 'classe': 'ED', 'level': 601, 'exp': 3596523144}
+{'nome': 'Insaness', 'classe': 'EK', 'level': 601, 'exp': 3596454397}
+{'nome': 'Pally Of Silmaia', 'classe': 'RP', 'level': 601, 'exp': 3596382587}
+{'nome': 'Fille', 'classe': 'RP', 'level': 601, 'exp': 3596378505}
+{'nome': 'Robiin Hood', 'classe': 'RP', 'level': 601, 'exp': 3596325659}
+{'nome': 'Mec Fly', 'classe': 'ED', 'level': 601, 'exp': 3596156063}
+{'nome': 'Alok Neon', 'classe': 'ED', 'level': 601, 'exp': 3595935087}
+{'nome': 'Mlk Infernal', 'classe': 'ED', 'level': 601, 'exp': 3595925241}
+{'nome': 'Midori Kawana', 'classe': 'ED', 'level': 601, 'exp': 3595786407}
+{'nome': 'Yan Wojciech', 'classe': 'RP', 'level': 601, 'exp': 3595746768}
+{'nome': 'Bandiit', 'classe': 'ED', 'level': 601, 'exp': 3595656053}
+{'nome': 'Vanstt', 'classe': 'ED', 'level': 601, 'exp': 3595641780}
+{'nome': 'Macacorey', 'classe': 'ED', 'level': 601, 'exp': 3595509354}
+{'nome': 'Gudo Da Fan', 'classe': 'MS', 'level': 601, 'exp': 3595433483}
+{'nome': 'Hurley Loose', 'classe': 'EK', 'level': 601, 'exp': 3595379578}
+{'nome': 'Eloi Magezin', 'classe': 'ED', 'level': 601, 'exp': 3595276821}
+{'nome': 'Matutoxzor', 'classe': 'ED', 'level': 601, 'exp': 3595267352}
+{'nome': 'Styluxz', 'classe': 'RP', 'level': 601, 'exp': 3595234310}
+{'nome': 'Monikaum', 'classe': 'ED', 'level': 601, 'exp': 3595073119}
+{'nome': 'Mc Pokemon', 'classe': 'EK', 'level': 601, 'exp': 3595012622}
+{'nome': 'Knight Malvado', 'classe': 'EK', 'level': 601, 'exp': 3594983520}
+{'nome': 'Wallsing', 'classe': 'EK', 'level': 601, 'exp': 3594557454}
+{'nome': 'Pally Sagaz', 'classe': 'RP', 'level': 601, 'exp': 3594429985}
+{'nome': 'Loschys', 'classe': 'RP', 'level': 601, 'exp': 3594327166}
+{'nome': 'Vira Latta', 'classe': 'ED', 'level': 601, 'exp': 3594294557}
+{'nome': 'Mzk Tanka Bazir', 'classe': 'RP', 'level': 601, 'exp': 3594290907}
+{'nome': 'Kochampol', 'classe': 'RP', 'level': 601, 'exp': 3594240674}
+{'nome': 'Danilo Spancador', 'classe': 'ED', 'level': 601, 'exp': 3594103854}
+{'nome': 'Jv Da Kombi', 'classe': 'RP', 'level': 601, 'exp': 3593764631}
+{'nome': 'Doorgass', 'classe': 'ED', 'level': 601, 'exp': 3593721662}
+{'nome': 'Wath', 'classe': 'RP', 'level': 601, 'exp': 3593667315}
+{'nome': 'Tripa Nabruxa', 'classe': 'ED', 'level': 601, 'exp': 3593628306}
+{'nome': 'Planethemp', 'classe': 'MS', 'level': 601, 'exp': 3593511134}
+{'nome': 'Loteador Tr', 'classe': 'ED', 'level': 601, 'exp': 3593440677}
+{'nome': 'Solta Na Night', 'classe': 'EK', 'level': 601, 'exp': 3593430375}
+{'nome': 'Tjet', 'classe': 'MS', 'level': 601, 'exp': 3593420882}
+{'nome': 'Hemogenin', 'classe': 'ED', 'level': 601, 'exp': 3593169931}
+{'nome': 'Gladiadora', 'classe': 'EK', 'level': 601, 'exp': 3593132252}
+{'nome': 'Tobirama Senju', 'classe': 'RP', 'level': 601, 'exp': 3593098820}
+{'nome': 'Zethan Knight', 'classe': 'ED', 'level': 601, 'exp': 3593023646}
+{'nome': 'Thiago Tol', 'classe': 'ED', 'level': 601, 'exp': 3592982330}
+{'nome': 'Princesa Juh', 'classe': 'ED', 'level': 601, 'exp': 3592980773}
+{'nome': 'Not Falling', 'classe': 'EK', 'level': 601, 'exp': 3592778275}
+{'nome': 'Unizeb Gold', 'classe': 'RP', 'level': 601, 'exp': 3592773922}
+{'nome': 'Max Darkness', 'classe': 'ED', 'level': 601, 'exp': 3592671504}
+{'nome': 'Zee Pekeno', 'classe': 'MS', 'level': 601, 'exp': 3592669962}
+{'nome': 'Coronel Maconha', 'classe': 'RP', 'level': 601, 'exp': 3592514440}
+{'nome': 'Sona', 'classe': 'ED', 'level': 601, 'exp': 3592507322}
+{'nome': 'Lanwis', 'classe': 'ED', 'level': 601, 'exp': 3592389291}
+{'nome': 'Dora', 'classe': 'RP', 'level': 601, 'exp': 3592376913}
+{'nome': 'Sr Infernal', 'classe': 'ED', 'level': 601, 'exp': 3592364732}
+{'nome': 'Mightykiller', 'classe': 'RP', 'level': 601, 'exp': 3592201091}
+{'nome': 'Isis Dakini', 'classe': 'EK', 'level': 601, 'exp': 3592176869}
+{'nome': 'Fabinho', 'classe': 'RP', 'level': 601, 'exp': 3592107865}
+{'nome': 'Hitlar', 'classe': 'RP', 'level': 601, 'exp': 3592105910}
+{'nome': 'Winston Churchill', 'classe': 'RP', 'level': 601, 'exp': 3592049887}
+{'nome': 'Grand Of The Gray', 'classe': 'RP', 'level': 601, 'exp': 3591995136}
+{'nome': 'Hacktivist', 'classe': 'ED', 'level': 601, 'exp': 3591984897}
+{'nome': 'Mage Of Chaos', 'classe': 'ED', 'level': 601, 'exp': 3591733534}
+{'nome': 'Damonick', 'classe': 'ED', 'level': 601, 'exp': 3591688121}
+{'nome': 'Royal Monikaum', 'classe': 'RP', 'level': 601, 'exp': 3591630686}
+{'nome': 'Drogo', 'classe': 'EK', 'level': 601, 'exp': 3591591788}
+{'nome': 'Sabotagge', 'classe': 'ED', 'level': 601, 'exp': 3591591587}
+{'nome': 'Orange Ninja', 'classe': 'ED', 'level': 601, 'exp': 3591408574}
+{'nome': 'Raphowns', 'classe': 'ED', 'level': 601, 'exp': 3591383509}
+{'nome': 'Rajadao', 'classe': 'RP', 'level': 601, 'exp': 3591315731}
+{'nome': 'Kyo Kusanagi', 'classe': 'RP', 'level': 601, 'exp': 3591238316}
+{'nome': 'Cavco', 'classe': 'ED', 'level': 601, 'exp': 3591036154}
+{'nome': 'Halls Pretoo', 'classe': 'ED', 'level': 601, 'exp': 3590999143}
+{'nome': 'Carga Pezada', 'classe': 'MS', 'level': 601, 'exp': 3590667747}
+{'nome': 'Master Da Maconha', 'classe': 'RP', 'level': 601, 'exp': 3590667265}
+{'nome': 'Hurley Kiing', 'classe': 'ED', 'level': 601, 'exp': 3590557259}
+{'nome': 'Better Mage', 'classe': 'ED', 'level': 601, 'exp': 3590545683}
+{'nome': 'Rafazerah The Boss', 'classe': 'RP', 'level': 601, 'exp': 3590461384}
+{'nome': 'Juuliow', 'classe': 'ED', 'level': 601, 'exp': 3590394147}
+{'nome': 'Rangers Preto', 'classe': 'ED', 'level': 601, 'exp': 3590223456}
+{'nome': 'Pally Of Chaos', 'classe': 'RP', 'level': 601, 'exp': 3590133197}
+{'nome': 'Hellvolver', 'classe': 'RP', 'level': 601, 'exp': 3590131891}
+{'nome': 'Helurdios', 'classe': 'RP', 'level': 601, 'exp': 3589936938}
+{'nome': 'Knight Brimstone', 'classe': 'EK', 'level': 601, 'exp': 3589894449}
+{'nome': 'Magic Dasher', 'classe': 'ED', 'level': 601, 'exp': 3589732906}
+{'nome': 'Karlidad', 'classe': 'ED', 'level': 601, 'exp': 3589642840}
+{'nome': 'Playboyzin', 'classe': 'MS', 'level': 601, 'exp': 3589583092}
+{'nome': 'Negerslaktaren', 'classe': 'ED', 'level': 601, 'exp': 3589574506}
+{'nome': 'Tripanossomacruzis', 'classe': 'RP', 'level': 601, 'exp': 3589417316}
+{'nome': 'Sir Roxis Krazy', 'classe': 'ED', 'level': 601, 'exp': 3589279003}
+{'nome': 'Shernobil', 'classe': 'ED', 'level': 601, 'exp': 3589274765}
+{'nome': 'Rakete', 'classe': 'RP', 'level': 601, 'exp': 3589257322}
+{'nome': 'Jah Life', 'classe': 'ED', 'level': 601, 'exp': 3589231372}
+{'nome': 'Muniz Oliver', 'classe': 'ED', 'level': 601, 'exp': 3589174113}
+{'nome': 'Dorfoz', 'classe': 'ED', 'level': 601, 'exp': 3589150154}
+{'nome': 'Fendrel', 'classe': 'RP', 'level': 601, 'exp': 3589105639}
+{'nome': 'Velhu', 'classe': 'ED', 'level': 601, 'exp': 3588942426}
+{'nome': 'Hiany', 'classe': 'ED', 'level': 601, 'exp': 3588895561}
+{'nome': 'Magezinha Psy', 'classe': 'ED', 'level': 601, 'exp': 3588869736}
+{'nome': 'Escudinho', 'classe': 'ED', 'level': 601, 'exp': 3588828476}
+{'nome': 'Black Death', 'classe': 'EK', 'level': 601, 'exp': 3588784722}
+{'nome': 'Goiaba Gigante', 'classe': 'ED', 'level': 601, 'exp': 3588703311}
+{'nome': 'Pally De Itamonte', 'classe': 'RP', 'level': 601, 'exp': 3588702343}
+{'nome': 'Pixote', 'classe': 'RP', 'level': 601, 'exp': 3588618721}
+{'nome': 'Buried Alive', 'classe': 'ED', 'level': 601, 'exp': 3588481845}
+{'nome': 'Pallay Skank', 'classe': 'RP', 'level': 601, 'exp': 3588478783}
+{'nome': 'Zulphor Chia', 'classe': 'MS', 'level': 601, 'exp': 3588344860}
+{'nome': 'Pally mitoo', 'classe': 'RP', 'level': 601, 'exp': 3588306159}
+{'nome': 'Floyd Mayweather', 'classe': 'ED', 'level': 601, 'exp': 3588277664}
+{'nome': 'Senzunokagy', 'classe': 'RP', 'level': 601, 'exp': 3588195822}
+{'nome': 'Digdin Starbot', 'classe': 'RP', 'level': 601, 'exp': 3588195767}
+{'nome': 'Trekson', 'classe': 'ED', 'level': 601, 'exp': 3588145035}
+{'nome': 'Menina Wikki', 'classe': 'RP', 'level': 601, 'exp': 3588090237}
+{'nome': 'Pipo Loko', 'classe': 'MS', 'level': 601, 'exp': 3587999875}
+{'nome': 'Almight Vellin', 'classe': 'MS', 'level': 601, 'exp': 3587860777}
+{'nome': 'Charlovster', 'classe': 'RP', 'level': 601, 'exp': 3587855306}
+{'nome': 'Flokih', 'classe': 'ED', 'level': 601, 'exp': 3587794504}
+{'nome': 'Knight Bruxzin', 'classe': 'EK', 'level': 601, 'exp': 3587790565}
+{'nome': 'Diss Click', 'classe': 'RP', 'level': 601, 'exp': 3587773911}
+{'nome': 'Tuh Para Callejera', 'classe': 'RP', 'level': 601, 'exp': 3587601830}
+{'nome': 'Jim Gordon', 'classe': 'RP', 'level': 601, 'exp': 3587588332}
+{'nome': 'Problema', 'classe': 'RP', 'level': 601, 'exp': 3587562626}
+{'nome': 'Xuxa rox', 'classe': 'ED', 'level': 601, 'exp': 3587478158}
+{'nome': 'Who Zz', 'classe': 'EK', 'level': 601, 'exp': 3587463982}
+{'nome': 'Zerotwo', 'classe': 'RP', 'level': 601, 'exp': 3587414837}
+{'nome': 'Xullz Toka Terror', 'classe': 'ED', 'level': 601, 'exp': 3587412945}
+{'nome': 'Posker', 'classe': 'ED', 'level': 601, 'exp': 3587388371}
+{'nome': 'Albarov Tekila', 'classe': 'ED', 'level': 601, 'exp': 3587327003}
+{'nome': 'Betinho Kina', 'classe': 'EK', 'level': 601, 'exp': 3587110149}
+{'nome': 'Higao The Emperor', 'classe': 'RP', 'level': 601, 'exp': 3587093259}
+{'nome': 'Tiaguinhoowzka', 'classe': 'ED', 'level': 601, 'exp': 3586942802}
+{'nome': 'Vidaa Lokaa', 'classe': 'RP', 'level': 601, 'exp': 3586880767}
+{'nome': 'Snowlz', 'classe': 'ED', 'level': 601, 'exp': 3586872482}
+{'nome': 'Cu Guloso', 'classe': 'RP', 'level': 601, 'exp': 3586802735}
+{'nome': 'Sol Naite', 'classe': 'EK', 'level': 601, 'exp': 3586694238}
+{'nome': 'Kushina', 'classe': 'RP', 'level': 601, 'exp': 3586658119}
+{'nome': 'Pally Women', 'classe': 'RP', 'level': 601, 'exp': 3586620678}
+{'nome': 'Adan Stifler', 'classe': 'ED', 'level': 601, 'exp': 3586593715}
+{'nome': 'Yannick', 'classe': 'RP', 'level': 601, 'exp': 3586588068}
+{'nome': 'Haineken', 'classe': 'ED', 'level': 601, 'exp': 3586257593}
+{'nome': 'Jesus Faz Backup', 'classe': 'ED', 'level': 601, 'exp': 3586176000}
+{'nome': 'Danzin Bruxo', 'classe': 'MS', 'level': 601, 'exp': 3586171445}
+{'nome': 'Lord Garuvinha', 'classe': 'ED', 'level': 601, 'exp': 3586135381}
+{'nome': 'Kannabyan Paramax', 'classe': 'ED', 'level': 601, 'exp': 3586100357}
+{'nome': 'Nandaum', 'classe': 'ED', 'level': 601, 'exp': 3586084859}
+{'nome': 'Velho Barreiiro', 'classe': 'EK', 'level': 601, 'exp': 3586084726}
+{'nome': 'Nois No Bass', 'classe': 'MS', 'level': 601, 'exp': 3586079442}
+{'nome': 'Dimple Diplomatty', 'classe': 'MS', 'level': 601, 'exp': 3586042278}
+{'nome': 'Matsukazi', 'classe': 'RP', 'level': 601, 'exp': 3585980729}
+{'nome': 'Nego Mata', 'classe': 'ED', 'level': 601, 'exp': 3585948538}
+{'nome': 'Policial Militar', 'classe': 'EK', 'level': 601, 'exp': 3585920429}
+{'nome': 'Not Problems', 'classe': 'ED', 'level': 601, 'exp': 3585867368}
+{'nome': 'Bofozerus', 'classe': 'RP', 'level': 601, 'exp': 3585841432}
+{'nome': 'Chefe da Boca', 'classe': 'ED', 'level': 601, 'exp': 3585770659}
+{'nome': 'Hara Hamas', 'classe': 'ED', 'level': 601, 'exp': 3585735463}
+{'nome': 'Saint Block', 'classe': 'EK', 'level': 601, 'exp': 3585619030}
+{'nome': 'Belladona King', 'classe': 'RP', 'level': 601, 'exp': 3585439273}
+{'nome': 'Mitox', 'classe': 'ED', 'level': 601, 'exp': 3585386632}
+{'nome': 'Jesuita', 'classe': 'ED', 'level': 601, 'exp': 3585291183}
+{'nome': 'Druid Rainbow', 'classe': 'ED', 'level': 601, 'exp': 3585271317}
+{'nome': 'Merci Prodigy', 'classe': 'ED', 'level': 601, 'exp': 3585225862}
+{'nome': 'Paladino Ordinario', 'classe': 'RP', 'level': 601, 'exp': 3585213588}
+{'nome': 'Tonha Macumbeira', 'classe': 'MS', 'level': 601, 'exp': 3585024472}
+{'nome': 'Xoxotinha', 'classe': 'MS', 'level': 601, 'exp': 3585014157}
+{'nome': 'Lord Itachi', 'classe': 'RP', 'level': 601, 'exp': 3584959421}
+{'nome': 'Jonk', 'classe': 'ED', 'level': 601, 'exp': 3584891417}
+{'nome': 'Gus Fring', 'classe': 'RP', 'level': 601, 'exp': 3584870535}
+{'nome': 'Mercenariioo', 'classe': 'ED', 'level': 601, 'exp': 3584868754}
+{'nome': 'Kakayakero', 'classe': 'ED', 'level': 601, 'exp': 3584848938}
+{'nome': 'Lucaszk', 'classe': 'RP', 'level': 601, 'exp': 3584821271}
+{'nome': 'Dzaw', 'classe': 'ED', 'level': 601, 'exp': 3584807930}
+{'nome': 'Kina Joga Easy', 'classe': 'EK', 'level': 601, 'exp': 3584789159}
+{'nome': 'Malkoz', 'classe': 'RP', 'level': 601, 'exp': 3584652021}
+{'nome': 'Magezyn Bolado', 'classe': 'ED', 'level': 601, 'exp': 3584650285}
+{'nome': 'Petra', 'classe': 'ED', 'level': 601, 'exp': 3584647544}
+{'nome': 'Tiizeraah', 'classe': 'EK', 'level': 601, 'exp': 3584621083}
+{'nome': 'Blaackout', 'classe': 'ED', 'level': 601, 'exp': 3584604922}
+{'nome': 'Pacoz Tankzor', 'classe': 'RP', 'level': 601, 'exp': 3584541817}
+{'nome': 'Aiseis', 'classe': 'ED', 'level': 601, 'exp': 3584509502}
+{'nome': 'System Of Windows', 'classe': 'ED', 'level': 601, 'exp': 3584457815}
+{'nome': 'Pally asessino', 'classe': 'RP', 'level': 601, 'exp': 3584420678}
+{'nome': 'Mary Kay', 'classe': 'ED', 'level': 601, 'exp': 3584378929}
+{'nome': 'Mataai', 'classe': 'ED', 'level': 601, 'exp': 3584375318}
+{'nome': 'Burrble', 'classe': 'RP', 'level': 601, 'exp': 3584374218}
+{'nome': 'Ezinho', 'classe': 'ED', 'level': 601, 'exp': 3584299830}
+{'nome': 'Coco', 'classe': 'RP', 'level': 601, 'exp': 3584250783}
+{'nome': 'Husken', 'classe': 'ED', 'level': 601, 'exp': 3584223874}
+{'nome': 'Brabo Memo', 'classe': 'ED', 'level': 601, 'exp': 3584204373}
+{'nome': 'Knurd Yep', 'classe': 'ED', 'level': 601, 'exp': 3584181985}
+{'nome': 'Diing Doong', 'classe': 'ED', 'level': 601, 'exp': 3584153023}
+{'nome': 'Brahma Sensation', 'classe': 'RP', 'level': 601, 'exp': 3584094003}
+{'nome': 'Druid Rullesz', 'classe': 'ED', 'level': 601, 'exp': 3584088183}
+{'nome': 'Th Poucass', 'classe': 'ED', 'level': 601, 'exp': 3584047908}
+{'nome': 'Elder Supremo', 'classe': 'ED', 'level': 601, 'exp': 3584045374}
+{'nome': 'Markinho', 'classe': 'ED', 'level': 601, 'exp': 3583968950}
+{'nome': 'Filavandel', 'classe': 'RP', 'level': 601, 'exp': 3583955223}
+{'nome': 'Rebola Popai', 'classe': 'ED', 'level': 601, 'exp': 3583925768}
+{'nome': 'Alectrona', 'classe': 'ED', 'level': 601, 'exp': 3583881117}
+{'nome': 'Heimermito', 'classe': 'ED', 'level': 601, 'exp': 3583736881}
+{'nome': 'Ek Tranzudo', 'classe': 'EK', 'level': 601, 'exp': 3583720151}
+{'nome': 'Porobiony Kazik', 'classe': 'ED', 'level': 601, 'exp': 3583676047}
+{'nome': 'Kako Paladino', 'classe': 'RP', 'level': 601, 'exp': 3583656055}
+{'nome': 'Waynee', 'classe': 'RP', 'level': 601, 'exp': 3583644124}
+{'nome': 'Onjacktalbecke', 'classe': 'ED', 'level': 601, 'exp': 3583633803}
+{'nome': 'Bomdebriga', 'classe': 'EK', 'level': 601, 'exp': 3583610248}
+{'nome': 'Psyko Netdown', 'classe': 'ED', 'level': 601, 'exp': 3583594778}
+{'nome': 'Shockxz', 'classe': 'MS', 'level': 601, 'exp': 3583515195}
+{'nome': 'Usain Bolt', 'classe': 'ED', 'level': 601, 'exp': 3583480352}
+{'nome': 'Flapxx', 'classe': 'RP', 'level': 601, 'exp': 3583468150}
+{'nome': 'Laacerda Rush', 'classe': 'ED', 'level': 601, 'exp': 3583466023}
+{'nome': 'Spectrafx', 'classe': 'MS', 'level': 601, 'exp': 3583465265}
+{'nome': 'Robotron Pally', 'classe': 'RP', 'level': 601, 'exp': 3583459741}
+{'nome': 'Velha Cega', 'classe': 'ED', 'level': 601, 'exp': 3583427896}
+{'nome': 'Frumiga Xeraku', 'classe': 'RP', 'level': 601, 'exp': 3583422738}
+{'nome': 'Melee Hit', 'classe': 'ED', 'level': 601, 'exp': 3583387733}
+{'nome': 'Meduza', 'classe': 'RP', 'level': 601, 'exp': 3583384170}
+{'nome': 'Ferohar', 'classe': 'MS', 'level': 601, 'exp': 3583361590}
+{'nome': 'Nyros The Mr', 'classe': 'RP', 'level': 601, 'exp': 3583283001}
+{'nome': 'Master Pick', 'classe': 'ED', 'level': 601, 'exp': 3583269557}
+{'nome': 'Galeguinhowns', 'classe': 'ED', 'level': 601, 'exp': 3583265843}
+{'nome': 'Moscoio', 'classe': 'RP', 'level': 601, 'exp': 3583221788}
+{'nome': 'Fly Leaf', 'classe': 'RP', 'level': 601, 'exp': 3583197791}
+{'nome': 'Soh Lamento', 'classe': 'ED', 'level': 601, 'exp': 3583181455}
+{'nome': 'Dominus Mortem', 'classe': 'ED', 'level': 601, 'exp': 3583167517}
+{'nome': 'Biochemis', 'classe': 'ED', 'level': 601, 'exp': 3583166538}
+{'nome': 'Mr Pacifist', 'classe': 'RP', 'level': 601, 'exp': 3583152776}
+{'nome': 'Apenas Um Random', 'classe': 'RP', 'level': 601, 'exp': 3583140395}
+{'nome': 'Omashu', 'classe': 'EK', 'level': 601, 'exp': 3583034528}
+{'nome': 'Cesao Berranteiro', 'classe': 'ED', 'level': 601, 'exp': 3583034209}
+{'nome': 'General', 'classe': 'ED', 'level': 601, 'exp': 3583019353}
+{'nome': 'Direitinha', 'classe': 'RP', 'level': 601, 'exp': 3583001784}
+{'nome': 'Ozymandias', 'classe': 'EK', 'level': 601, 'exp': 3582959117}
+{'nome': 'Maranata', 'classe': 'RP', 'level': 601, 'exp': 3582930790}
+{'nome': 'Colleen Wing', 'classe': 'RP', 'level': 601, 'exp': 3582918570}
+{'nome': 'Rafishow', 'classe': 'RP', 'level': 601, 'exp': 3582906318}
+{'nome': 'Master Dunno', 'classe': 'ED', 'level': 601, 'exp': 3582863919}
+{'nome': 'Pala Torres', 'classe': 'RP', 'level': 601, 'exp': 3582862270}
+{'nome': 'Tapa Facil', 'classe': 'ED', 'level': 601, 'exp': 3582830851}
+{'nome': 'Mage Look', 'classe': 'ED', 'level': 601, 'exp': 3582824126}
+{'nome': 'Caterpilar Aurion', 'classe': 'RP', 'level': 601, 'exp': 3582801742}
+{'nome': 'Kendall', 'classe': 'ED', 'level': 601, 'exp': 3582761896}
+{'nome': 'Xamineh', 'classe': 'RP', 'level': 601, 'exp': 3582746334}
+{'nome': 'Romiilda', 'classe': 'RP', 'level': 601, 'exp': 3582684040}
+{'nome': 'Vortex', 'classe': 'MS', 'level': 601, 'exp': 3582668914}
+{'nome': 'Jonnie Walker', 'classe': 'ED', 'level': 601, 'exp': 3582649571}
+{'nome': 'Relampago Marquin', 'classe': 'EK', 'level': 601, 'exp': 3582604246}
+{'nome': 'Aloka Bee', 'classe': 'RP', 'level': 601, 'exp': 3582575611}
+{'nome': 'Mano Loko', 'classe': 'ED', 'level': 601, 'exp': 3582574480}
+{'nome': 'Vovo De Toca', 'classe': 'MS', 'level': 601, 'exp': 3582555875}
+{'nome': 'Poker', 'classe': 'ED', 'level': 601, 'exp': 3582554954}
+{'nome': 'Fiote De Kin', 'classe': 'EK', 'level': 601, 'exp': 3582527242}
+{'nome': 'Bucetoviisk', 'classe': 'ED', 'level': 601, 'exp': 3582518766}
+{'nome': 'Alesson Sagaz', 'classe': 'ED', 'level': 601, 'exp': 3582472856}
+{'nome': 'Vim Rula Treta', 'classe': 'ED', 'level': 601, 'exp': 3582471308}
+{'nome': 'Diego Boladex', 'classe': 'ED', 'level': 601, 'exp': 3582434627}
+{'nome': 'Pandha Black', 'classe': 'RP', 'level': 601, 'exp': 3582428944}
+{'nome': 'Tradition', 'classe': 'RP', 'level': 601, 'exp': 3582380579}
+{'nome': 'Terror Diesel', 'classe': 'ED', 'level': 601, 'exp': 3582366512}
+{'nome': 'Psico Driller', 'classe': 'RP', 'level': 601, 'exp': 3582365353}
+{'nome': 'Flpzera', 'classe': 'EK', 'level': 601, 'exp': 3582353336}
+{'nome': 'Biladen', 'classe': 'ED', 'level': 601, 'exp': 3582336813}
+{'nome': 'Saymexzor', 'classe': 'ED', 'level': 601, 'exp': 3582334976}
+{'nome': 'Perereca Suiciida', 'classe': 'RP', 'level': 601, 'exp': 3582282635}
+{'nome': 'Apokallypse', 'classe': 'MS', 'level': 601, 'exp': 3582279116}
+{'nome': 'Esquentadinha', 'classe': 'RP', 'level': 601, 'exp': 3582254667}
+{'nome': 'Raikkonen', 'classe': 'EK', 'level': 601, 'exp': 3582245308}
+{'nome': 'Machista Mago', 'classe': 'ED', 'level': 601, 'exp': 3582226779}
+{'nome': 'Henry Cavill', 'classe': 'RP', 'level': 601, 'exp': 3582226203}
+{'nome': 'Truelove', 'classe': 'RP', 'level': 601, 'exp': 3582225886}
+{'nome': 'Paulistinha Holmes', 'classe': 'RP', 'level': 601, 'exp': 3582204668}
+{'nome': 'Well Crazy', 'classe': 'RP', 'level': 601, 'exp': 3582202608}
+{'nome': 'Zaklad Narodowy', 'classe': 'RP', 'level': 601, 'exp': 3582197823}
+{'nome': 'Arjen Robben', 'classe': 'ED', 'level': 601, 'exp': 3582196834}
+{'nome': 'Engeo Pleno', 'classe': 'RP', 'level': 601, 'exp': 3582188327}
+{'nome': 'Cara Do Dinheiro', 'classe': 'ED', 'level': 601, 'exp': 3582182818}
+{'nome': 'Thays Mychaela', 'classe': 'RP', 'level': 601, 'exp': 3582177847}
+{'nome': 'Palazao', 'classe': 'RP', 'level': 601, 'exp': 3582138803}
+{'nome': 'Endgame', 'classe': 'RP', 'level': 601, 'exp': 3582110538}
+{'nome': 'Mc Namarinha', 'classe': 'ED', 'level': 601, 'exp': 3582107113}
+{'nome': 'Aabra', 'classe': 'ED', 'level': 600, 'exp': 3582001155}
+{'nome': 'Socialistadeiphone', 'classe': 'RP', 'level': 600, 'exp': 3581728385}
+{'nome': 'Klous', 'classe': 'RP', 'level': 600, 'exp': 3581569717}
+{'nome': 'Warlock Psycol', 'classe': 'RP', 'level': 600, 'exp': 3581532172}
+{'nome': 'Mister Myscoynho', 'classe': 'RP', 'level': 600, 'exp': 3581518969}
+{'nome': 'Whatsapp Messenger', 'classe': 'RP', 'level': 600, 'exp': 3581472459}
+{'nome': 'Kazumaa', 'classe': 'RP', 'level': 600, 'exp': 3581267807}
+{'nome': 'Arlequinaa', 'classe': 'RP', 'level': 600, 'exp': 3581225392}
+{'nome': 'King Of Souls', 'classe': 'RP', 'level': 600, 'exp': 3580991437}
+{'nome': 'Xavasek', 'classe': 'ED', 'level': 600, 'exp': 3580771247}
+{'nome': 'Freeze', 'classe': 'ED', 'level': 600, 'exp': 3580522699}
+{'nome': 'Sub Mec', 'classe': 'EK', 'level': 600, 'exp': 3580485826}
+{'nome': 'Aokiji', 'classe': 'EK', 'level': 600, 'exp': 3580404237}
+{'nome': 'Assasin Druid', 'classe': 'ED', 'level': 600, 'exp': 3580378689}
+{'nome': 'German Cano', 'classe': 'EK', 'level': 600, 'exp': 3580341421}
+{'nome': 'President Cesinha', 'classe': 'ED', 'level': 600, 'exp': 3580250112}
+{'nome': 'Theeskull', 'classe': 'RP', 'level': 600, 'exp': 3580224109}
+{'nome': 'Higuiinn', 'classe': 'RP', 'level': 600, 'exp': 3580179236}
+{'nome': 'Chris Lake', 'classe': 'RP', 'level': 600, 'exp': 3580143197}
+{'nome': 'Jessickaa', 'classe': 'ED', 'level': 600, 'exp': 3580028722}
+{'nome': 'Abralice', 'classe': 'ED', 'level': 600, 'exp': 3579976809}
+{'nome': 'Sr Gustt', 'classe': 'RP', 'level': 600, 'exp': 3579944687}
+{'nome': 'Liakss', 'classe': 'ED', 'level': 600, 'exp': 3579832338}
+{'nome': 'Verdinho', 'classe': 'EK', 'level': 600, 'exp': 3579817454}
+{'nome': 'Dinpaw', 'classe': 'EK', 'level': 600, 'exp': 3579793769}
+{'nome': 'Tsoliva', 'classe': 'RP', 'level': 600, 'exp': 3579703738}
+{'nome': 'Trem Disgovernado', 'classe': 'ED', 'level': 600, 'exp': 3579499389}
+{'nome': 'Punio', 'classe': 'ED', 'level': 600, 'exp': 3579316915}
+{'nome': 'Solare', 'classe': 'EK', 'level': 600, 'exp': 3579116659}
+{'nome': 'Fakedoi', 'classe': 'ED', 'level': 600, 'exp': 3578925190}
+{'nome': 'Laywin', 'classe': 'EK', 'level': 600, 'exp': 3578905712}
+{'nome': 'Kazuaki Fullkt', 'classe': 'ED', 'level': 600, 'exp': 3578746886}
+{'nome': 'Diego Shadowbolt', 'classe': 'ED', 'level': 600, 'exp': 3578726838}
+{'nome': 'Meu Toba Cru', 'classe': 'ED', 'level': 600, 'exp': 3578229412}
+{'nome': 'Rush Power', 'classe': 'RP', 'level': 600, 'exp': 3578165506}
+{'nome': 'Modem da oi', 'classe': 'ED', 'level': 600, 'exp': 3578125834}
+{'nome': 'Goiaba Green', 'classe': 'ED', 'level': 600, 'exp': 3578080050}
+{'nome': 'Ultra Proplayer', 'classe': 'EK', 'level': 600, 'exp': 3577849171}
+{'nome': 'Uzi Fall', 'classe': 'EK', 'level': 600, 'exp': 3577808095}
+{'nome': 'Wiinter Is Comiing', 'classe': 'ED', 'level': 600, 'exp': 3577716920}
+{'nome': 'Knight Haole', 'classe': 'EK', 'level': 600, 'exp': 3577671990}
+{'nome': 'Malokero', 'classe': 'ED', 'level': 600, 'exp': 3577554765}
+{'nome': 'Palhaco', 'classe': 'ED', 'level': 600, 'exp': 3577390412}
+{'nome': 'Knight Estampa', 'classe': 'EK', 'level': 600, 'exp': 3577291924}
+{'nome': 'Zamurah', 'classe': 'RP', 'level': 600, 'exp': 3577212349}
+{'nome': 'Zlynblood', 'classe': 'RP', 'level': 600, 'exp': 3577142166}
+{'nome': 'Jardel', 'classe': 'ED', 'level': 600, 'exp': 3577115039}
+{'nome': 'Bartobi', 'classe': 'ED', 'level': 600, 'exp': 3577030475}
+{'nome': 'Kina Pro Rush', 'classe': 'EK', 'level': 600, 'exp': 3577011392}
+{'nome': 'Pklizadoraa', 'classe': 'ED', 'level': 600, 'exp': 3576995548}
+{'nome': 'Jon label', 'classe': 'ED', 'level': 600, 'exp': 3576923361}
+{'nome': 'Bruxelas', 'classe': 'MS', 'level': 600, 'exp': 3576796754}
+{'nome': 'Carcaju', 'classe': 'ED', 'level': 600, 'exp': 3576735795}
+{'nome': 'Matozo', 'classe': 'RP', 'level': 600, 'exp': 3576699412}
+{'nome': 'Reiden', 'classe': 'ED', 'level': 600, 'exp': 3576646243}
+{'nome': 'Estrelar', 'classe': 'EK', 'level': 600, 'exp': 3576641676}
+{'nome': 'Master Sativa', 'classe': 'ED', 'level': 600, 'exp': 3576597938}
+{'nome': 'Sharam Jey', 'classe': 'EK', 'level': 600, 'exp': 3576504076}
+{'nome': 'Shimokoloko', 'classe': 'ED', 'level': 600, 'exp': 3576405196}
+{'nome': 'Alex Gonne', 'classe': 'ED', 'level': 600, 'exp': 3576370125}
+{'nome': 'Puro Voodoo', 'classe': 'ED', 'level': 600, 'exp': 3576354907}
+{'nome': 'Stephanos', 'classe': 'RP', 'level': 600, 'exp': 3576335959}
+{'nome': 'The Fim', 'classe': 'RP', 'level': 600, 'exp': 3576229354}
+{'nome': 'Mariahuana', 'classe': 'ED', 'level': 600, 'exp': 3576186326}
+{'nome': 'Chupa Toba', 'classe': 'EK', 'level': 600, 'exp': 3576058318}
+{'nome': 'Sos Thaynara', 'classe': 'RP', 'level': 600, 'exp': 3576002849}
+{'nome': 'Lucy Hazered', 'classe': 'EK', 'level': 600, 'exp': 3575877678}
+{'nome': 'War Attack', 'classe': 'RP', 'level': 600, 'exp': 3575865680}
+{'nome': 'Shack Nas Ideia', 'classe': 'ED', 'level': 600, 'exp': 3575730008}
+{'nome': 'Old Mec', 'classe': 'ED', 'level': 600, 'exp': 3575692100}
+{'nome': 'Como Tu Sem Kusp', 'classe': 'ED', 'level': 600, 'exp': 3575627212}
+{'nome': 'Pally Brabo', 'classe': 'RP', 'level': 600, 'exp': 3575588434}
+{'nome': 'Scala Seguranca', 'classe': 'ED', 'level': 600, 'exp': 3575565225}
+{'nome': 'Knight Maudiito', 'classe': 'EK', 'level': 600, 'exp': 3575551080}
+{'nome': 'Vorghner', 'classe': 'ED', 'level': 600, 'exp': 3575517153}
+{'nome': 'Hardcore Old', 'classe': 'ED', 'level': 600, 'exp': 3575426104}
+{'nome': 'Alias Chapo', 'classe': 'ED', 'level': 600, 'exp': 3575344281}
+{'nome': 'Boak', 'classe': 'EK', 'level': 600, 'exp': 3575016055}
+{'nome': 'Siicario', 'classe': 'ED', 'level': 600, 'exp': 3574924029}
+{'nome': 'Play Escobar', 'classe': 'RP', 'level': 600, 'exp': 3574847993}
+{'nome': 'Duvido', 'classe': 'ED', 'level': 600, 'exp': 3574372887}
+{'nome': 'Zero Deaths', 'classe': 'EK', 'level': 600, 'exp': 3573762975}
+{'nome': 'Robbin Hood', 'classe': 'RP', 'level': 600, 'exp': 3573732194}
+{'nome': 'Jegaum Brasil', 'classe': 'MS', 'level': 600, 'exp': 3573511412}
+{'nome': 'Rei Heleno', 'classe': 'RP', 'level': 600, 'exp': 3573386045}
+{'nome': 'Luizovisk', 'classe': 'MS', 'level': 600, 'exp': 3573354743}
+{'nome': 'Mago Garotinho', 'classe': 'ED', 'level': 600, 'exp': 3573321705}
+{'nome': 'Drakkus', 'classe': 'ED', 'level': 600, 'exp': 3573274556}
+{'nome': 'Carai Biridin', 'classe': 'ED', 'level': 600, 'exp': 3573219174}
+{'nome': 'Hell Guardian', 'classe': 'RP', 'level': 600, 'exp': 3573079802}
+{'nome': 'Druid Show', 'classe': 'ED', 'level': 600, 'exp': 3572941997}
+{'nome': 'Makerquinze', 'classe': 'ED', 'level': 600, 'exp': 3572739695}
+{'nome': 'Erik Dalebolt', 'classe': 'RP', 'level': 600, 'exp': 3572728542}
+{'nome': 'Burt Rikku', 'classe': 'RP', 'level': 600, 'exp': 3572680180}
+{'nome': 'Elite Baron', 'classe': 'ED', 'level': 600, 'exp': 3572658094}
+{'nome': 'Ivonete', 'classe': 'RP', 'level': 600, 'exp': 3572604078}
+{'nome': 'Nerf', 'classe': 'ED', 'level': 600, 'exp': 3572251840}
+{'nome': 'Formact', 'classe': 'RP', 'level': 600, 'exp': 3572219626}
+{'nome': 'Infected Is Back', 'classe': 'EK', 'level': 600, 'exp': 3572111832}
+{'nome': 'Teu Painho', 'classe': 'ED', 'level': 600, 'exp': 3572036375}
+{'nome': 'Hellinkz', 'classe': 'EK', 'level': 600, 'exp': 3572029512}
+{'nome': 'Fuziu Fal', 'classe': 'EK', 'level': 600, 'exp': 3571983369}
+{'nome': 'Chera Chunelo', 'classe': 'RP', 'level': 600, 'exp': 3571949617}
+{'nome': 'Magoziinhow', 'classe': 'ED', 'level': 600, 'exp': 3571887957}
+{'nome': 'Alagarta Notebook', 'classe': 'ED', 'level': 600, 'exp': 3571698007}
+{'nome': 'Black Barri', 'classe': 'RP', 'level': 600, 'exp': 3571692927}
+{'nome': 'The Kiler', 'classe': 'RP', 'level': 600, 'exp': 3571643288}
+{'nome': 'Co Criador', 'classe': 'RP', 'level': 600, 'exp': 3571536656}
+{'nome': 'Meninoo Ney', 'classe': 'RP', 'level': 600, 'exp': 3571368500}
+{'nome': 'Yucateka', 'classe': 'RP', 'level': 600, 'exp': 3571344222}
+{'nome': 'Drague', 'classe': 'EK', 'level': 600, 'exp': 3570948357}
+{'nome': 'Mr Rabbit', 'classe': 'MS', 'level': 600, 'exp': 3570939417}
+{'nome': 'Itz Druid', 'classe': 'ED', 'level': 600, 'exp': 3570904249}
+{'nome': 'Izy Bjor', 'classe': 'ED', 'level': 600, 'exp': 3570877229}
+{'nome': 'Popierdolony', 'classe': 'EK', 'level': 600, 'exp': 3570845271}
+{'nome': 'Felipe Rusherz', 'classe': 'ED', 'level': 600, 'exp': 3570776233}
+{'nome': 'Goiaba Morto', 'classe': 'ED', 'level': 600, 'exp': 3570771698}
+{'nome': 'Dugaiis', 'classe': 'ED', 'level': 600, 'exp': 3570744484}
+{'nome': 'Interfectorem Ed', 'classe': 'ED', 'level': 600, 'exp': 3570704739}
+{'nome': 'Pro True', 'classe': 'RP', 'level': 600, 'exp': 3570604284}
+{'nome': 'Napoleon', 'classe': 'EK', 'level': 600, 'exp': 3570495456}
+{'nome': 'Rangers Vermelho', 'classe': 'ED', 'level': 600, 'exp': 3570466758}
+{'nome': 'Loteador Do', 'classe': 'ED', 'level': 600, 'exp': 3570366491}
+{'nome': 'Sephirot', 'classe': 'ED', 'level': 600, 'exp': 3570340332}
+{'nome': 'Jair Bolsonaro Jr', 'classe': 'ED', 'level': 600, 'exp': 3570202642}
+{'nome': 'Hipotenusa', 'classe': 'ED', 'level': 600, 'exp': 3569881684}
+{'nome': 'Renekton Adcarry', 'classe': 'RP', 'level': 600, 'exp': 3569326012}
+{'nome': 'Black Smoke', 'classe': 'ED', 'level': 600, 'exp': 3569248937}
+{'nome': 'Puta Vea', 'classe': 'RP', 'level': 600, 'exp': 3569166399}
+{'nome': 'Iam Jennifer', 'classe': 'ED', 'level': 600, 'exp': 3569118974}
+{'nome': 'Raynne', 'classe': 'RP', 'level': 600, 'exp': 3569096254}
+{'nome': 'Naizenhoow', 'classe': 'EK', 'level': 600, 'exp': 3569016090}
+{'nome': 'Cheryl Blossom', 'classe': 'RP', 'level': 600, 'exp': 3568961226}
+{'nome': 'Billl', 'classe': 'RP', 'level': 600, 'exp': 3568635657}
+{'nome': 'Koryo', 'classe': 'ED', 'level': 600, 'exp': 3568413465}
+{'nome': 'Kitii Joga Facil', 'classe': 'EK', 'level': 600, 'exp': 3568403022}
+{'nome': 'Do Cu', 'classe': 'ED', 'level': 600, 'exp': 3568152543}
+{'nome': 'Dath Cross', 'classe': 'RP', 'level': 600, 'exp': 3568097803}
+{'nome': 'Lord Shoter', 'classe': 'RP', 'level': 600, 'exp': 3568073243}
+{'nome': 'Pally Of Dark', 'classe': 'RP', 'level': 600, 'exp': 3568018156}
+{'nome': 'Roxxyy', 'classe': 'RP', 'level': 600, 'exp': 3568001726}
+{'nome': 'Talita Pallazinha', 'classe': 'RP', 'level': 600, 'exp': 3567609489}
+{'nome': 'Diaaboo', 'classe': 'EK', 'level': 600, 'exp': 3567562314}
+{'nome': 'Cronus Bolterman', 'classe': 'RP', 'level': 600, 'exp': 3567546490}
+{'nome': 'Final Warning', 'classe': 'ED', 'level': 600, 'exp': 3567470014}
+{'nome': 'Roles Dures', 'classe': 'MS', 'level': 600, 'exp': 3567351253}
+{'nome': 'Alcapone', 'classe': 'EK', 'level': 600, 'exp': 3567181304}
+{'nome': 'Jigsaw', 'classe': 'RP', 'level': 600, 'exp': 3567174090}
+{'nome': 'Chupao The Pitoca', 'classe': 'RP', 'level': 600, 'exp': 3566978348}
+{'nome': 'Hamikaze', 'classe': 'RP', 'level': 600, 'exp': 3566914956}
+{'nome': 'Seu terror', 'classe': 'ED', 'level': 600, 'exp': 3566851350}
+{'nome': 'Osaminha', 'classe': 'RP', 'level': 600, 'exp': 3566735344}
+{'nome': 'Legalize Jhaah', 'classe': 'ED', 'level': 600, 'exp': 3566677573}
+{'nome': 'Royal Mektrava', 'classe': 'RP', 'level': 600, 'exp': 3566405556}
+{'nome': 'Kalifaa', 'classe': 'ED', 'level': 600, 'exp': 3566362669}
+{'nome': 'Cilgin Bedis', 'classe': 'RP', 'level': 600, 'exp': 3566219067}
+{'nome': 'Black Ultra', 'classe': 'RP', 'level': 600, 'exp': 3566199874}
+{'nome': 'Jerry Smith', 'classe': 'ED', 'level': 600, 'exp': 3566085249}
+{'nome': 'Shaolix', 'classe': 'ED', 'level': 600, 'exp': 3565794933}
+{'nome': 'Rister Shooter', 'classe': 'RP', 'level': 600, 'exp': 3565701704}
+{'nome': 'Patrao Bruce', 'classe': 'RP', 'level': 600, 'exp': 3565643519}
+{'nome': 'Curera', 'classe': 'ED', 'level': 600, 'exp': 3565471901}
+{'nome': 'El Ingeniero', 'classe': 'EK', 'level': 600, 'exp': 3565424850}
+{'nome': 'Farmmer', 'classe': 'EK', 'level': 600, 'exp': 3565369535}
+{'nome': 'Hibridos', 'classe': 'RP', 'level': 600, 'exp': 3565125597}
+{'nome': 'Bows', 'classe': 'RP', 'level': 600, 'exp': 3564924478}
+{'nome': 'Cria Da Romenia', 'classe': 'RP', 'level': 600, 'exp': 3564586599}
+{'nome': 'Fandangoss', 'classe': 'EK', 'level': 600, 'exp': 3564458682}
+{'nome': 'Chori Pan', 'classe': 'EK', 'level': 600, 'exp': 3564378492}
+{'nome': 'Parque Acuatico', 'classe': 'RP', 'level': 600, 'exp': 3564340287}
+{'nome': 'Bow Bugada', 'classe': 'RP', 'level': 600, 'exp': 3564331016}
+{'nome': 'Moscodemais', 'classe': 'ED', 'level': 600, 'exp': 3564327381}
+{'nome': 'Duduward', 'classe': 'RP', 'level': 600, 'exp': 3564287127}
+{'nome': 'Joao Braveheart', 'classe': 'ED', 'level': 600, 'exp': 3564259679}
+{'nome': 'Rosse Frontline', 'classe': 'RP', 'level': 600, 'exp': 3564228929}
+{'nome': 'Gago Da Glock', 'classe': 'RP', 'level': 600, 'exp': 3564205934}
+{'nome': 'Ziikinha', 'classe': 'MS', 'level': 600, 'exp': 3564193331}
+{'nome': 'Fozter', 'classe': 'EK', 'level': 600, 'exp': 3564185741}
+{'nome': 'Huka', 'classe': 'ED', 'level': 600, 'exp': 3564171559}
+{'nome': 'Sadan Na Missao', 'classe': 'ED', 'level': 599, 'exp': 3564136986}
+{'nome': 'Mirella one', 'classe': 'RP', 'level': 599, 'exp': 3564116867}
+{'nome': 'Skratch', 'classe': 'RP', 'level': 599, 'exp': 3563718049}
+{'nome': 'Topperson', 'classe': 'MS', 'level': 599, 'exp': 3563664867}
+{'nome': 'Sloov Watic', 'classe': 'ED', 'level': 599, 'exp': 3563485058}
+{'nome': 'Kingsin', 'classe': 'RP', 'level': 599, 'exp': 3562668881}
+{'nome': 'Piinto', 'classe': 'ED', 'level': 599, 'exp': 3562597175}
+{'nome': 'Dream Warr', 'classe': 'ED', 'level': 599, 'exp': 3562368678}
+{'nome': 'Edhelladloborn', 'classe': 'EK', 'level': 599, 'exp': 3562244671}
+{'nome': 'Mcs Renan', 'classe': 'RP', 'level': 599, 'exp': 3561759456}
+{'nome': 'Robozao', 'classe': 'RP', 'level': 599, 'exp': 3561742039}
+{'nome': 'Fa Zloot', 'classe': 'EK', 'level': 599, 'exp': 3561687494}
+{'nome': 'Pink Blood', 'classe': 'EK', 'level': 599, 'exp': 3561556751}
+{'nome': 'Pico Loco', 'classe': 'ED', 'level': 599, 'exp': 3561426610}
+{'nome': 'Kiitinho', 'classe': 'ED', 'level': 599, 'exp': 3561357622}
+{'nome': 'Pally Of Massacre', 'classe': 'RP', 'level': 599, 'exp': 3561319300}
+{'nome': 'Falido Tres', 'classe': 'ED', 'level': 599, 'exp': 3560978630}
+{'nome': 'Boom Boom', 'classe': 'ED', 'level': 599, 'exp': 3560856802}
+{'nome': 'Estoy Mamadisimo', 'classe': 'RP', 'level': 599, 'exp': 3560802371}
+{'nome': 'Drakoox', 'classe': 'ED', 'level': 599, 'exp': 3560752801}
+{'nome': 'Chaves Zika', 'classe': 'ED', 'level': 599, 'exp': 3560647945}
+{'nome': 'Goiaba Market', 'classe': 'EK', 'level': 599, 'exp': 3560585603}
+{'nome': 'Piika Das Galaxias', 'classe': 'ED', 'level': 599, 'exp': 3560532606}
+{'nome': 'Princesa Psy', 'classe': 'ED', 'level': 599, 'exp': 3559912731}
+{'nome': 'Kayua', 'classe': 'MS', 'level': 599, 'exp': 3559841617}
+{'nome': 'Dichavado Da Ue', 'classe': 'RP', 'level': 599, 'exp': 3559792352}
+{'nome': 'Juju Salimeni', 'classe': 'RP', 'level': 599, 'exp': 3559716887}
+{'nome': 'Mathilda', 'classe': 'EK', 'level': 599, 'exp': 3559547648}
+{'nome': 'Neoh', 'classe': 'RP', 'level': 599, 'exp': 3559452830}
+{'nome': 'Boulevardcrown', 'classe': 'EK', 'level': 599, 'exp': 3559404216}
+{'nome': 'Xiriz', 'classe': 'RP', 'level': 599, 'exp': 3559149843}
+{'nome': 'Rp Full Rp', 'classe': 'RP', 'level': 599, 'exp': 3559146937}
+{'nome': 'Layla Bittencourt', 'classe': 'RP', 'level': 599, 'exp': 3558961001}
+{'nome': 'Pally Of Renan', 'classe': 'RP', 'level': 599, 'exp': 3558937851}
+{'nome': 'Ludovickjr', 'classe': 'EK', 'level': 599, 'exp': 3558521732}
+{'nome': 'Al Rush', 'classe': 'ED', 'level': 599, 'exp': 3558393079}
+{'nome': 'Summer Druid', 'classe': 'ED', 'level': 599, 'exp': 3558369101}
+{'nome': 'Tiim', 'classe': 'ED', 'level': 599, 'exp': 3558240534}
+{'nome': 'Stormy', 'classe': 'RP', 'level': 599, 'exp': 3557972856}
+{'nome': 'Sopra Frag', 'classe': 'ED', 'level': 599, 'exp': 3557881525}
+{'nome': 'Houly Foca', 'classe': 'ED', 'level': 599, 'exp': 3557682415}
+{'nome': 'Spy Ninja', 'classe': 'RP', 'level': 599, 'exp': 3557415452}
+{'nome': 'Eternal Paladin', 'classe': 'RP', 'level': 599, 'exp': 3557278235}
+{'nome': 'Brumack', 'classe': 'EK', 'level': 599, 'exp': 3557119749}
+{'nome': 'Vansz', 'classe': 'MS', 'level': 599, 'exp': 3556817347}
+{'nome': 'Harvey Specte', 'classe': 'ED', 'level': 599, 'exp': 3556814468}
+{'nome': 'Pally Ivonete', 'classe': 'RP', 'level': 599, 'exp': 3556441228}
+{'nome': 'Mounkz', 'classe': 'ED', 'level': 599, 'exp': 3556430657}
+{'nome': 'King Daster', 'classe': 'RP', 'level': 599, 'exp': 3556366821}
+{'nome': 'Tome Telemorte', 'classe': 'ED', 'level': 599, 'exp': 3555914302}
+{'nome': 'Legendary Tripida', 'classe': 'RP', 'level': 599, 'exp': 3555802004}
+{'nome': 'Negation Neguim', 'classe': 'RP', 'level': 599, 'exp': 3555591561}
+{'nome': 'Mafu Terrorista', 'classe': 'ED', 'level': 599, 'exp': 3555447601}
+{'nome': 'Royal Shotter Sexy', 'classe': 'RP', 'level': 599, 'exp': 3555315206}
+{'nome': 'Owniq', 'classe': 'ED', 'level': 599, 'exp': 3555011613}
+{'nome': 'Gran Paladin', 'classe': 'RP', 'level': 599, 'exp': 3554815538}
+{'nome': 'Thundher Bolt', 'classe': 'RP', 'level': 599, 'exp': 3554013376}
+{'nome': 'Kamikaze Rush', 'classe': 'ED', 'level': 599, 'exp': 3554008878}
+{'nome': 'Infante Maldito', 'classe': 'RP', 'level': 599, 'exp': 3553688398}
+{'nome': 'Igaaoo', 'classe': 'ED', 'level': 599, 'exp': 3553644048}
+{'nome': 'Blink Do', 'classe': 'RP', 'level': 599, 'exp': 3553459747}
+{'nome': 'Oi Doly', 'classe': 'RP', 'level': 599, 'exp': 3553232850}
+{'nome': 'Seacalma Jovem', 'classe': 'RP', 'level': 599, 'exp': 3553202499}
+{'nome': 'Lady Nia', 'classe': 'RP', 'level': 599, 'exp': 3553087868}
+{'nome': 'Thii', 'classe': 'ED', 'level': 599, 'exp': 3552511783}
+{'nome': 'Jhouzy', 'classe': 'MS', 'level': 599, 'exp': 3552440827}
+{'nome': 'Hoax', 'classe': 'ED', 'level': 599, 'exp': 3552047582}
+{'nome': 'Spook', 'classe': 'RP', 'level': 599, 'exp': 3551824742}
+{'nome': 'Rakedz Voltz', 'classe': 'RP', 'level': 599, 'exp': 3551604875}
+{'nome': 'Buuh', 'classe': 'RP', 'level': 599, 'exp': 3551498232}
+{'nome': 'Downter', 'classe': 'ED', 'level': 599, 'exp': 3551402879}
+{'nome': 'Crazy Clown', 'classe': 'RP', 'level': 599, 'exp': 3551327127}
+{'nome': 'Esterno', 'classe': 'RP', 'level': 599, 'exp': 3551314393}
+{'nome': 'Psicopata Do Poder', 'classe': 'EK', 'level': 599, 'exp': 3551270246}
+{'nome': 'Hight Priest', 'classe': 'ED', 'level': 599, 'exp': 3551195224}
+{'nome': 'The Love', 'classe': 'RP', 'level': 599, 'exp': 3551189418}
+{'nome': 'Jhon Shellby', 'classe': 'RP', 'level': 599, 'exp': 3551134139}
+{'nome': 'Dram', 'classe': 'RP', 'level': 599, 'exp': 3550997987}
+{'nome': 'Madcat', 'classe': 'ED', 'level': 599, 'exp': 3550820322}
+{'nome': 'Vagabundo De Luxo', 'classe': 'RP', 'level': 599, 'exp': 3550744284}
+{'nome': 'Doce De Macadamia', 'classe': 'ED', 'level': 599, 'exp': 3550596868}
+{'nome': 'Ruivo', 'classe': 'EK', 'level': 599, 'exp': 3550471005}
+{'nome': 'Teemo De Aghamin', 'classe': 'RP', 'level': 599, 'exp': 3550239256}
+{'nome': 'Megacagada', 'classe': 'EK', 'level': 599, 'exp': 3550231096}
+{'nome': 'Nanicollas', 'classe': 'ED', 'level': 599, 'exp': 3550170897}
+{'nome': 'Might', 'classe': 'ED', 'level': 599, 'exp': 3550157975}
+{'nome': 'Bloker Tenso', 'classe': 'EK', 'level': 599, 'exp': 3549910798}
+{'nome': 'Aaa Aaa Aaa Aaa Aa', 'classe': 'RP', 'level': 599, 'exp': 3549684419}
+{'nome': 'Jow Wilson', 'classe': 'ED', 'level': 599, 'exp': 3549610336}
+{'nome': 'Veneno A', 'classe': 'EK', 'level': 599, 'exp': 3549372687}
+{'nome': 'Dred San', 'classe': 'ED', 'level': 599, 'exp': 3549372561}
+{'nome': 'Umobukaifeiditao', 'classe': 'ED', 'level': 599, 'exp': 3548499210}
+{'nome': 'Paralyzing', 'classe': 'ED', 'level': 599, 'exp': 3548382934}
+{'nome': 'Ei Ta', 'classe': 'ED', 'level': 599, 'exp': 3547781709}
+{'nome': 'Spy Niinja', 'classe': 'RP', 'level': 599, 'exp': 3547738212}
+{'nome': 'Abner Druid', 'classe': 'ED', 'level': 599, 'exp': 3547668475}
+{'nome': 'Aleman Tankzor', 'classe': 'ED', 'level': 599, 'exp': 3547658185}
+{'nome': 'Pain Rlz', 'classe': 'ED', 'level': 599, 'exp': 3547567817}
+{'nome': 'Pusho', 'classe': 'EK', 'level': 599, 'exp': 3547258000}
+{'nome': 'Teka Pally', 'classe': 'RP', 'level': 599, 'exp': 3547076858}
+{'nome': 'Pally ty', 'classe': 'RP', 'level': 599, 'exp': 3546685210}
+{'nome': 'Taylon Rp', 'classe': 'RP', 'level': 599, 'exp': 3546400824}
+{'nome': 'Biielzinho Owns', 'classe': 'MS', 'level': 599, 'exp': 3546393118}
+{'nome': 'Ashee', 'classe': 'RP', 'level': 599, 'exp': 3546324666}
+{'nome': 'Tranksmcs', 'classe': 'MS', 'level': 598, 'exp': 3546113973}
+{'nome': 'Druid Rullexz', 'classe': 'ED', 'level': 598, 'exp': 3545963334}
+{'nome': 'Dry Ice Hax', 'classe': 'ED', 'level': 598, 'exp': 3545763440}
+{'nome': 'Skank Kina', 'classe': 'EK', 'level': 598, 'exp': 3545751378}
+{'nome': 'Babanin Oglu Kemal', 'classe': 'ED', 'level': 598, 'exp': 3545664569}
+{'nome': 'Kane', 'classe': 'EK', 'level': 598, 'exp': 3545436434}
+{'nome': 'Pu De Cuinguin', 'classe': 'MS', 'level': 598, 'exp': 3545378086}
+{'nome': 'Topdomomento', 'classe': 'ED', 'level': 598, 'exp': 3545344090}
+{'nome': 'Lanca Perfume', 'classe': 'ED', 'level': 598, 'exp': 3545091090}
+{'nome': 'Evento', 'classe': 'RP', 'level': 598, 'exp': 3545018319}
+{'nome': 'Goiaba Baba', 'classe': 'EK', 'level': 598, 'exp': 3544733066}
+{'nome': 'Mini Mann', 'classe': 'RP', 'level': 598, 'exp': 3544719003}
+{'nome': 'Breno Das Novinhas', 'classe': 'ED', 'level': 598, 'exp': 3544541061}
+{'nome': 'Out Qqmuda', 'classe': 'ED', 'level': 598, 'exp': 3544393171}
+{'nome': 'Blair Waldorf', 'classe': 'ED', 'level': 598, 'exp': 3544386617}
+{'nome': 'Popzera', 'classe': 'RP', 'level': 598, 'exp': 3543870781}
+{'nome': 'Thirzan', 'classe': 'RP', 'level': 598, 'exp': 3543783344}
+{'nome': 'Mokshoz', 'classe': 'RP', 'level': 598, 'exp': 3543693587}
+{'nome': 'Donmaster', 'classe': 'RP', 'level': 598, 'exp': 3543228438}
+{'nome': 'Zawg', 'classe': 'EK', 'level': 598, 'exp': 3542986732}
+{'nome': 'Goiano Original', 'classe': 'ED', 'level': 598, 'exp': 3542582983}
+{'nome': 'Tekinha', 'classe': 'RP', 'level': 598, 'exp': 3542424632}
+{'nome': 'Pihno Bronks', 'classe': 'ED', 'level': 598, 'exp': 3542252786}
+{'nome': 'Cratos', 'classe': 'EK', 'level': 598, 'exp': 3541432938}
+{'nome': 'Acco', 'classe': 'RP', 'level': 598, 'exp': 3541432352}
+{'nome': 'Teik', 'classe': 'ED', 'level': 598, 'exp': 3541176490}
+{'nome': 'Mourex', 'classe': 'ED', 'level': 598, 'exp': 3540649257}
+{'nome': 'Exinting Bussy', 'classe': 'MS', 'level': 598, 'exp': 3540279611}
+{'nome': 'Genesiss', 'classe': 'RP', 'level': 598, 'exp': 3540002504}
+{'nome': 'Arthur Shellby', 'classe': 'RP', 'level': 598, 'exp': 3539859744}
+{'nome': 'Aicinco', 'classe': 'ED', 'level': 598, 'exp': 3539294040}
+{'nome': 'Will Cunhado', 'classe': 'ED', 'level': 598, 'exp': 3539213272}
+{'nome': 'Kisame Hoshigaki', 'classe': 'RP', 'level': 598, 'exp': 3539085890}
+{'nome': 'Darkheat', 'classe': 'RP', 'level': 598, 'exp': 3539051557}
+{'nome': 'Pedro Thekinos Oz', 'classe': 'ED', 'level': 598, 'exp': 3538561793}
+{'nome': 'Lady Dbust', 'classe': 'RP', 'level': 598, 'exp': 3538429444}
+{'nome': 'Tengo La Pampara', 'classe': 'RP', 'level': 598, 'exp': 3538274506}
+{'nome': 'Raspberry', 'classe': 'ED', 'level': 598, 'exp': 3538235837}
+{'nome': 'Lorien', 'classe': 'ED', 'level': 598, 'exp': 3537839650}
+{'nome': 'Don Jezito Iv', 'classe': 'ED', 'level': 598, 'exp': 3537647531}
+{'nome': 'Spotlight', 'classe': 'ED', 'level': 598, 'exp': 3537623034}
+{'nome': 'Styllo Baguida', 'classe': 'RP', 'level': 598, 'exp': 3537084557}
+{'nome': 'Lacoste', 'classe': 'RP', 'level': 598, 'exp': 3536949534}
+{'nome': 'Roza Wiatrow', 'classe': 'RP', 'level': 598, 'exp': 3536878867}
+{'nome': 'Dad Sito', 'classe': 'ED', 'level': 598, 'exp': 3536848912}
+{'nome': 'Impala', 'classe': 'RP', 'level': 598, 'exp': 3536728156}
+{'nome': 'Midnigth', 'classe': 'RP', 'level': 598, 'exp': 3536555035}
+{'nome': 'Gordofobico', 'classe': 'RP', 'level': 598, 'exp': 3536496508}
+{'nome': 'Paquibafrigo', 'classe': 'MS', 'level': 598, 'exp': 3536173175}
+{'nome': 'Juninhu Docinhu', 'classe': 'ED', 'level': 598, 'exp': 3535784029}
+{'nome': 'Rei Du Crak', 'classe': 'ED', 'level': 598, 'exp': 3535455643}
+{'nome': 'Kyng Castle', 'classe': 'RP', 'level': 598, 'exp': 3535307822}
+{'nome': 'Cronos Dog', 'classe': 'EK', 'level': 598, 'exp': 3535240821}
+{'nome': 'Luh Mythus', 'classe': 'ED', 'level': 598, 'exp': 3534798877}
+{'nome': 'Chuq Noris', 'classe': 'ED', 'level': 598, 'exp': 3534330996}
+{'nome': 'Surtada', 'classe': 'ED', 'level': 598, 'exp': 3534219166}
+{'nome': 'Vai Lacra', 'classe': 'RP', 'level': 598, 'exp': 3534121110}
+{'nome': 'Physiotherapy', 'classe': 'ED', 'level': 598, 'exp': 3533922738}
+{'nome': 'Jhennifer', 'classe': 'ED', 'level': 598, 'exp': 3533613633}
+{'nome': 'Debull', 'classe': 'RP', 'level': 598, 'exp': 3533400049}
+{'nome': 'Pikaziilm', 'classe': 'RP', 'level': 598, 'exp': 3533376240}
+{'nome': 'Warung-beach', 'classe': 'ED', 'level': 598, 'exp': 3533324237}
+{'nome': 'Voy Fumaoo', 'classe': 'EK', 'level': 598, 'exp': 3533306180}
+{'nome': 'Anjinha Rush', 'classe': 'ED', 'level': 598, 'exp': 3533095342}
+{'nome': 'Summer Dumbledore', 'classe': 'ED', 'level': 598, 'exp': 3533069880}
+{'nome': 'Rogerio Comuna', 'classe': 'ED', 'level': 598, 'exp': 3532988966}
+{'nome': 'Trpbrkr Espeteiro', 'classe': 'ED', 'level': 598, 'exp': 3532867193}
+{'nome': 'Saurfang', 'classe': 'EK', 'level': 598, 'exp': 3532866013}
+{'nome': 'Cash Trip', 'classe': 'ED', 'level': 598, 'exp': 3532839160}
+{'nome': 'Ant Kina', 'classe': 'EK', 'level': 598, 'exp': 3532654368}
+{'nome': 'Chaos Maker', 'classe': 'EK', 'level': 598, 'exp': 3532059105}
+{'nome': 'Narkoman', 'classe': 'ED', 'level': 598, 'exp': 3531940046}
+{'nome': 'Cookie Shooter', 'classe': 'RP', 'level': 598, 'exp': 3531490776}
+{'nome': 'Evil Punkher', 'classe': 'RP', 'level': 598, 'exp': 3531446502}
+{'nome': 'Kikaum', 'classe': 'RP', 'level': 598, 'exp': 3531404935}
+{'nome': 'Miiguelziinho', 'classe': 'ED', 'level': 598, 'exp': 3531367942}
+{'nome': 'Csf Royal', 'classe': 'RP', 'level': 598, 'exp': 3531335431}
+{'nome': 'Pro Push', 'classe': 'ED', 'level': 598, 'exp': 3530517507}
+{'nome': 'Psy Cho', 'classe': 'RP', 'level': 598, 'exp': 3529922037}
+{'nome': 'Reverendo', 'classe': 'ED', 'level': 598, 'exp': 3528939305}
+{'nome': 'Heitor Flexa Facil', 'classe': 'RP', 'level': 598, 'exp': 3528702375}
+{'nome': 'Kaleend Acher', 'classe': 'RP', 'level': 598, 'exp': 3528656458}
+{'nome': 'Boaten', 'classe': 'EK', 'level': 598, 'exp': 3528545853}
+{'nome': 'Windows Powerpoint', 'classe': 'ED', 'level': 597, 'exp': 3528327119}
+{'nome': 'Dayse Jhonson', 'classe': 'ED', 'level': 597, 'exp': 3528168110}
+{'nome': 'Uenotres', 'classe': 'ED', 'level': 597, 'exp': 3528166086}
+{'nome': 'Sidestep Paralyze', 'classe': 'RP', 'level': 597, 'exp': 3528072913}
+{'nome': 'Bugro Harros', 'classe': 'ED', 'level': 597, 'exp': 3527629260}
+{'nome': 'Mil Garotas', 'classe': 'ED', 'level': 597, 'exp': 3527470261}
+{'nome': 'Jefao Ilusao', 'classe': 'RP', 'level': 597, 'exp': 3527459913}
+{'nome': 'Thresh Is My Main', 'classe': 'EK', 'level': 597, 'exp': 3527349904}
+{'nome': 'System Mukkl', 'classe': 'ED', 'level': 597, 'exp': 3526737230}
+{'nome': 'Wdr Jumpz', 'classe': 'ED', 'level': 597, 'exp': 3526441495}
+{'nome': 'Flavitia', 'classe': 'EK', 'level': 597, 'exp': 3525825390}
+{'nome': 'Kina lokoo', 'classe': 'EK', 'level': 597, 'exp': 3525424844}
+{'nome': 'Druid Of Healing', 'classe': 'RP', 'level': 597, 'exp': 3525297669}
+{'nome': 'Easy Peasy', 'classe': 'ED', 'level': 597, 'exp': 3525169679}
+{'nome': 'Mestre Haole', 'classe': 'RP', 'level': 597, 'exp': 3525099101}
+{'nome': 'Marajah', 'classe': 'ED', 'level': 597, 'exp': 3524978097}
+{'nome': 'Vip Sky', 'classe': 'MS', 'level': 597, 'exp': 3524786559}
+{'nome': 'Thayron Dalost', 'classe': 'ED', 'level': 597, 'exp': 3524579910}
+{'nome': 'Karevwowy', 'classe': 'RP', 'level': 597, 'exp': 3524518887}
+{'nome': 'Flo Ki', 'classe': 'RP', 'level': 597, 'exp': 3524261272}
+{'nome': 'Jenifer Bueno', 'classe': 'RP', 'level': 597, 'exp': 3523723877}
+{'nome': 'Zipo', 'classe': 'ED', 'level': 597, 'exp': 3523645888}
+{'nome': 'Oka Bolt', 'classe': 'RP', 'level': 597, 'exp': 3523485818}
+{'nome': 'Mortte', 'classe': 'ED', 'level': 597, 'exp': 3523074094}
+{'nome': 'The Pallazin', 'classe': 'RP', 'level': 597, 'exp': 3522959080}
+{'nome': 'Hotspot Shield', 'classe': 'ED', 'level': 597, 'exp': 3522462744}
+{'nome': 'Palumbo', 'classe': 'RP', 'level': 597, 'exp': 3522045302}
+{'nome': 'Evsilent', 'classe': 'ED', 'level': 597, 'exp': 3522042402}
+{'nome': 'Coisa Vaca', 'classe': 'RP', 'level': 597, 'exp': 3521763177}
+{'nome': 'Fhaelzs', 'classe': 'RP', 'level': 597, 'exp': 3521517466}
+{'nome': 'Pally Das Almas', 'classe': 'RP', 'level': 597, 'exp': 3521210523}
+{'nome': 'Zuzu Obrabu', 'classe': 'ED', 'level': 597, 'exp': 3521160746}
+{'nome': 'Redtube Ta Off', 'classe': 'RP', 'level': 597, 'exp': 3521076963}
+{'nome': 'Chyara Bolt', 'classe': 'RP', 'level': 597, 'exp': 3521055073}
+{'nome': 'Piromaniac', 'classe': 'MS', 'level': 597, 'exp': 3519670887}
+{'nome': 'Valartax', 'classe': 'EK', 'level': 597, 'exp': 3519390557}
+{'nome': 'Ant Maage', 'classe': 'MS', 'level': 597, 'exp': 3519316584}
+{'nome': 'Ale Game Over', 'classe': 'RP', 'level': 597, 'exp': 3518753378}
+{'nome': 'Gato De Armazem', 'classe': 'ED', 'level': 597, 'exp': 3518676014}
+{'nome': 'Briendazolis', 'classe': 'RP', 'level': 597, 'exp': 3518482380}
+{'nome': 'Jujubinha', 'classe': 'ED', 'level': 597, 'exp': 3518337590}
+{'nome': 'Kaulifa', 'classe': 'RP', 'level': 597, 'exp': 3517527612}
+{'nome': 'Fiilhaaoo', 'classe': 'RP', 'level': 597, 'exp': 3517289348}
+{'nome': 'Delson The Boss', 'classe': 'EK', 'level': 597, 'exp': 3516754650}
+{'nome': 'Floki Pitbull', 'classe': 'ED', 'level': 597, 'exp': 3516716313}
+{'nome': 'Khoozt', 'classe': 'ED', 'level': 597, 'exp': 3516689963}
+{'nome': 'Kakashi Hitake', 'classe': 'RP', 'level': 597, 'exp': 3516670051}
+{'nome': 'Hky Return', 'classe': 'ED', 'level': 597, 'exp': 3516316340}
+{'nome': 'Hirukih', 'classe': 'EK', 'level': 597, 'exp': 3515692712}
+{'nome': 'Bossing', 'classe': 'RP', 'level': 597, 'exp': 3515579515}
+{'nome': 'Mago Malvado', 'classe': 'MS', 'level': 597, 'exp': 3514810622}
+{'nome': 'Xico Dk', 'classe': 'EK', 'level': 597, 'exp': 3514403170}
+{'nome': 'Will Transante', 'classe': 'ED', 'level': 597, 'exp': 3514256272}
+{'nome': 'Rastinha', 'classe': 'RP', 'level': 597, 'exp': 3513908456}
+{'nome': 'Shieda Kayn', 'classe': 'ED', 'level': 597, 'exp': 3513734221}
+{'nome': 'Django', 'classe': 'RP', 'level': 597, 'exp': 3513463449}
+{'nome': 'Sephirus', 'classe': 'ED', 'level': 597, 'exp': 3513149067}
+{'nome': 'Tifudeu', 'classe': 'EK', 'level': 597, 'exp': 3512926309}
+{'nome': 'Stroiter', 'classe': 'ED', 'level': 597, 'exp': 3512110300}
+{'nome': 'Escanor One', 'classe': 'ED', 'level': 597, 'exp': 3512063141}
+{'nome': 'Ninfetinha Dale', 'classe': 'ED', 'level': 597, 'exp': 3512035545}
+{'nome': 'Atirador', 'classe': 'RP', 'level': 597, 'exp': 3511490035}
+{'nome': 'Silmaia', 'classe': 'RP', 'level': 597, 'exp': 3511316541}
+{'nome': 'Sub Tenente', 'classe': 'ED', 'level': 597, 'exp': 3511128202}
+{'nome': 'Hell Maudito', 'classe': 'ED', 'level': 597, 'exp': 3510912461}
+{'nome': 'Creu', 'classe': 'MS', 'level': 596, 'exp': 3510796391}
+{'nome': 'Paly Ivonete', 'classe': 'RP', 'level': 596, 'exp': 3510020822}
+{'nome': 'Fullmago', 'classe': 'ED', 'level': 596, 'exp': 3509523102}
+{'nome': 'Kenshin Rimura', 'classe': 'ED', 'level': 596, 'exp': 3509447480}
+{'nome': 'Jean Rullexz', 'classe': 'RP', 'level': 596, 'exp': 3509433394}
+{'nome': 'Mito mito', 'classe': 'ED', 'level': 596, 'exp': 3509242440}
+{'nome': 'Mary Huanna', 'classe': 'ED', 'level': 596, 'exp': 3508343789}
+{'nome': 'Converse', 'classe': 'RP', 'level': 596, 'exp': 3508165774}
+{'nome': 'Rullesz', 'classe': 'ED', 'level': 596, 'exp': 3507955783}
+{'nome': 'Ravengar', 'classe': 'ED', 'level': 596, 'exp': 3507617569}
+{'nome': 'Saga De Gemeos', 'classe': 'ED', 'level': 596, 'exp': 3507540610}
+{'nome': 'Lipezn Mythow', 'classe': 'ED', 'level': 596, 'exp': 3506905426}
+{'nome': 'Obama Na Missao', 'classe': 'ED', 'level': 596, 'exp': 3506211839}
+{'nome': 'Mogavol', 'classe': 'RP', 'level': 596, 'exp': 3506030702}
+{'nome': 'Thommas Shelby', 'classe': 'MS', 'level': 596, 'exp': 3505845211}
+{'nome': 'Tyfa Lockhart', 'classe': 'RP', 'level': 596, 'exp': 3505310667}
+{'nome': 'Pally Demonic', 'classe': 'RP', 'level': 596, 'exp': 3505070166}
+{'nome': 'Podepa', 'classe': 'EK', 'level': 596, 'exp': 3504512598}
+{'nome': 'Sr Boca Looka', 'classe': 'ED', 'level': 596, 'exp': 3504264506}
+{'nome': 'Skyline Dazhor', 'classe': 'EK', 'level': 596, 'exp': 3504101558}
+{'nome': 'Necroomanncer', 'classe': 'RP', 'level': 596, 'exp': 3504000033}
+{'nome': 'Ms Pussy', 'classe': 'RP', 'level': 596, 'exp': 3503234737}
+{'nome': 'Arroxa', 'classe': 'RP', 'level': 596, 'exp': 3502969367}
+{'nome': 'Sovapoofamilia', 'classe': 'ED', 'level': 596, 'exp': 3502593032}
+{'nome': 'Maquina Do Sexo', 'classe': 'ED', 'level': 596, 'exp': 3501699678}
+{'nome': 'Knight Da Morth', 'classe': 'EK', 'level': 596, 'exp': 3500234532}
+{'nome': 'Zheus Night Ever', 'classe': 'ED', 'level': 596, 'exp': 3499635122}
+{'nome': 'Ti Grilo', 'classe': 'ED', 'level': 596, 'exp': 3499409037}
+{'nome': 'Yayi', 'classe': 'RP', 'level': 596, 'exp': 3499281278}
+{'nome': 'Smoking Marijuana', 'classe': 'ED', 'level': 596, 'exp': 3498881800}
+{'nome': 'Alfeu', 'classe': 'RP', 'level': 596, 'exp': 3498488916}
+{'nome': 'Ditogor', 'classe': 'ED', 'level': 596, 'exp': 3498393489}
+{'nome': 'Royal Xota', 'classe': 'RP', 'level': 596, 'exp': 3498289258}
+{'nome': 'Overbooster', 'classe': 'RP', 'level': 596, 'exp': 3497986642}
+{'nome': 'Mundongo', 'classe': 'ED', 'level': 596, 'exp': 3497363827}
+{'nome': 'Soyelmanteca', 'classe': 'ED', 'level': 596, 'exp': 3496884358}
+{'nome': 'Criatividade Zero', 'classe': 'ED', 'level': 596, 'exp': 3496810870}
+{'nome': 'Jean Grey', 'classe': 'ED', 'level': 596, 'exp': 3496311740}
+{'nome': 'Mythzalez Pro', 'classe': 'RP', 'level': 596, 'exp': 3496266274}
+{'nome': 'King Dondon', 'classe': 'EK', 'level': 596, 'exp': 3495756263}
+{'nome': 'Makabra', 'classe': 'RP', 'level': 596, 'exp': 3495406774}
+{'nome': 'Nitro Point', 'classe': 'RP', 'level': 596, 'exp': 3494975678}
+{'nome': 'Fresh', 'classe': 'ED', 'level': 596, 'exp': 3494907924}
+{'nome': 'Jhil Vlentine', 'classe': 'EK', 'level': 596, 'exp': 3494162557}
+{'nome': 'Maguceta', 'classe': 'ED', 'level': 596, 'exp': 3493807013}
+{'nome': 'Windows Baby Shark', 'classe': 'RP', 'level': 596, 'exp': 3493167205}
+{'nome': 'Spektro', 'classe': 'RP', 'level': 595, 'exp': 3492889517}
+{'nome': 'Chacaauu', 'classe': 'RP', 'level': 595, 'exp': 3492615214}
+{'nome': 'Guyton Hall', 'classe': 'ED', 'level': 595, 'exp': 3492140938}
